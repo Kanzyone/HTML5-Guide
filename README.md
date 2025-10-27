@@ -16,7 +16,7 @@ You can progress through each chapter at your own pace - all you need is a text 
 
 There are many browsers out there but most developers prefer to use Google Chrome or FireFox. I usually use Google chrome for development and I recommend it too. [Download Google Chrome]() if you do not have one.
 
-The browser render your HTML code to a human read website.
+HTML supports many browsers such as Safari, Opera, FireFox, Edge and Google Chrome. So I don't think so you will be have any problem for browser.
 
 ## Code Editor
 
