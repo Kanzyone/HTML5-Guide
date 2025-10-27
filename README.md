@@ -9,4 +9,23 @@ At the end of the guide, you’ll also find a final project to put everything yo
 
 You can progress through each chapter at your own pace - all you need is a text editor and a web browser. 
 
+
+# Setting Development Environment
+
+## Browser
+
+There are many browsers out there but most developers prefer to use Google Chrome or FireFox. I usually use Google chrome for development and I recommend it too. Download Google Chrome if you do not have one.
+
+The browser render your HTML code to a human read website.
+
+Code Editor
+
+As web developer, you should write code using a text or code editor. Therefore, to write HTML code, CSS, JS, React or other you need to have a code edit.
+
+I will use Visual studio code and I will use it in this challenge too. I strongly suggest to use Visual Studio Code because it has lots of productivity extensions that makes super productive. Now, let's download visual studio code.
+
+How to use Visual Studio Code
+
+To know how to use visual studio code, watch the following video
+
 # Introduction of HTML5
