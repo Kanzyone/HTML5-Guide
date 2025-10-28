@@ -1,4 +1,4 @@
-<h1>Setting Development Environment</h1>
+<div id="intro"> <h1>Setting Development Environment</h1> </div>
 </p>
 
 <h2>Browser</h2>
