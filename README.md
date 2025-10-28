@@ -17,9 +17,9 @@ With this guide, my goal is to provide a simple, structured, and hands on starti
 Also the end of the guide, you’ll also find a final project to put everything you’ve learned into practice! 🚀
 </p>
 
-# Setting Development Environment
+<h1>Setting Development Environment</h1>
 
-## Browser
+<h2>Browser</h2>
 
 There are many browsers out there but most developers prefer to use Google Chrome or FireFox. I usually use Google chrome for development and I recommend it too. <a href="https://www.google.com/aclk?sa=L&ai=DChsSEwid-qOt7caQAxWDU38AHT74KZsYACICCAEQARoCb2E&co=1&gclid=EAIaIQobChMInfqjre3GkAMVg1N_AB0--CmbEAAYASAAEgKKl_D_BwE&cid=CAASrwHkaII3ZMF-FQtj7NYNIUdSqIgPygmV-RSsnH8EzLaU85Of6v5vdZhfwHc2qzEqenBE7EBwibV1JKUQENe0ifVJLUKoub5e0HsKrt98e1viJNEAUTM8cZ1gQ95aJzBSHEHKU8iv0vby0M0zeZOgy-Brvj2w-UWdpunvrMj77EbAmbHZuvrU81SrEGwPuYzMh5dBmIKQN7XgqM5g63Gmf2HRNCmoEgTXhJtGO2dGou3d&cce=1&sig=AOD64_1jmEVdKRpamXAvGKVCTmM722-qaQ&q&adurl&ved=2ahUKEwjmh5-t7caQAxV44ckDHbkNDLYQ0Qx6BAgWEAE" title="Google site" target="_blank"> Download Google Chrome </a> if you do not have one.
 
