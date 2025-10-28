@@ -35,7 +35,7 @@ Contents supported by this guide:
 - <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/HTML%20Comment.md#html-comment" title="HTML Comment"> <b> HTML Comment</b> </a>
 - <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/DOM.md#dom" title="DOM"> <b>DOM</b> </a>
   - [Declaration](https://github.com/Kanzyone/HTML5-Guide/blob/main/DOM.md#declaration)
-  - [Root Element](https://github.com/Kanzyone/HTML5-Guide/blob/main/DOM.md#root-elements)
+  - [Root Element](https://github.com/Kanzyone/HTML5-Guide/blob/main/DOM.md#root-element)
 
 <h1>Resources and Contributors</h1>
 
