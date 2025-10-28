@@ -12,7 +12,7 @@ HTML supports many browsers such as Safari, Opera, FireFox, Edge and Google Chro
 
 As web developer, you should write code using a text or code editor. Therefore, to write HTML code, CSS, JS, React or other you need to have a code edit.
 
-I will use Visual studio code and I will use it in this challenge too. I strongly suggest to use Visual Studio Code because it has lots of productivity extensions that makes super productive. Now, let's [download visual studio code](https://code.visualstudio.com/download).
+I will use Visual studio code and I will use it in this challenge too. I strongly suggest to use Visual Studio Code because it has lots of productivity extensions that makes super productive. Now, let's [Download Visual Studio code](https://code.visualstudio.com/download).
 
 ## How to use Visual Studio Code
 
