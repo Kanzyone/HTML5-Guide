@@ -17,3 +17,10 @@ The tag name is h1 and the h1 will tell the browser to make the text a big font 
 </p>
 ```
 The p tag marks the text to be paragraph that why we call HTML a markup language.
+
+
+## HTML Comment
+Comment in any programming language help a code to be more readable. Therefore, it is common to leave some text on a code to make it more readable and maintainable. Let us the syntax of an HTML comment, it has opening ()
+```html
+<!-- The is an HTML comment and it makes the code more readable -->
+```
