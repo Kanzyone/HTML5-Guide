@@ -1,6 +1,6 @@
 # DOM
 
-In this section, we will start writing the DOM tree of an HTML document or file. DOM stands for Document Object Model. The DOM is structure like a true. It starts with an html root element followed by head and body. The head and the body are the immediate children of the root element, html. Before the root element, there is a declaration.
+In this section, we will start writing the DOM tree of an HTML document or file. DOM stands for _Document Object Model_. The DOM is structure like a true. It starts with an html root element followed by head and body. The head and the body are the immediate children of the root element, html. Before the root element, there is a declaration.
 
 ## Declaration
 
