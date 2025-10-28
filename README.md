@@ -17,13 +17,13 @@ Also the end of the guide, you’ll also find a final project to put everything 
 
 
 <h1>Contents</h1
-<p>              
+           
 If you're starting web development from scratch, I recommend reviewing the "Introduction" section.
 
 The contents are listed in order from top to bottom. You can access them by clicking on each section.
 
 Contents supported by this guide:
-</p>
+
 - <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#setting-development-environment" title="Introduction"> <b>Introduction</b> </a>
   - <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#setting-development-environment"> Setting Development Environment</a>
     - [Browser](https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#browser)
