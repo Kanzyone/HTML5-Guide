@@ -34,4 +34,5 @@ This guide is inspired by the most practical and essential information found in 
   - <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#setting-development-environment"> Setting Development Environment</a>
     - [Browser](https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#browser)
     - [Code Editor](https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#code-editor)
+    - [How to use Visual Studio Code](https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#how-to-use-visual-studio-code)
   - <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#introduction-of-html5"> Introduction of HTML5 </a>
