@@ -17,7 +17,7 @@ Also the end of the guide, you’ll also find a final project to put everything 
 </p>
 
 
-<h2>Resources and Contributors</h2>
+<h1>Resources and Contributors</h1>
 <h1>Setting Development Environment</h1>
 
 <h2>Browser</h2>
