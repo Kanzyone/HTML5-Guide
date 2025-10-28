@@ -16,6 +16,20 @@ Also the end of the guide, you’ll also find a final project to put everything 
 </p>
 
 
+<h1>Contents</h1
+
+Contents supported by this guide:
+
+- <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#setting-development-environment" title="Introduction"> <b>Introduction</b> </a>
+  - <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#setting-development-environment"> Setting Development Environment</a>
+    - [Browser](https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#browser)
+    - [Code Editor](https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#code-editor)
+    - [How to use Visual Studio Code](https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#how-to-use-visual-studio-code)
+  - <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#introduction-of-html"> Introduction of HTML </a>
+    - [What is HTML?](https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#what-is-html)
+- <a href="" title="Chapter 1"> <b>Chapter 1</b> </a>
+  - [HTML Elements]()
+
 <h1>Resources and Contributors</h1>
 
 - [W3C HTML Tutorial](https://www.w3schools.com/html/)
@@ -30,17 +44,3 @@ This guide is inspired by the most practical and essential information found in 
 Thank you for your participation and support in this project: [@Tafun Erbilen](https://github.com/tayfunerbilen), [HTML Boilerplate](https://github.com/h5bp/html5-boilerplate)
 
 If you would like to become a contributor or sponsor, [contact me!](https://github.com/Kanzyone) 🤩
-
-<h1>Contents</h1
-
-Contents supported by this guide:
-
-- <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#setting-development-environment" title="Introduction"> <b>Introduction</b> </a>
-  - <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#setting-development-environment"> Setting Development Environment</a>
-    - [Browser](https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#browser)
-    - [Code Editor](https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#code-editor)
-    - [How to use Visual Studio Code](https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#how-to-use-visual-studio-code)
-  - <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#introduction-of-html"> Introduction of HTML </a>
-    - [What is HTML?](https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#what-is-html)
-- <a href="" title="Chapter 1"> <b>Chapter 1</b> </a>
-  - [HTML Elements]()
