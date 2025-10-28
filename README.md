@@ -42,3 +42,4 @@ If you would like to become a contributor or sponsor, [contact me!](https://gith
   - <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#introduction-of-html5"> Introduction of HTML5 </a>
     - [What is HTML?](https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#what-is-html)
 - <a href="" title="Chapter 1"> <b>Chapter 1</b> </a>
+  - [HTML Elements]()
