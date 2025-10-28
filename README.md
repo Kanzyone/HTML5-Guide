@@ -34,10 +34,11 @@ If you would like to become a contributor or sponsor, [contact me!](https://gith
 
 <h1>Contents</h1
 
-- <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#setting-development-environment" titel="Introduction"> <b>Introduction</b> </a>
+- <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#setting-development-environment" title="Introduction"> <b>Introduction</b> </a>
   - <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#setting-development-environment"> Setting Development Environment</a>
     - [Browser](https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#browser)
     - [Code Editor](https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#code-editor)
     - [How to use Visual Studio Code](https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#how-to-use-visual-studio-code)
   - <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#introduction-of-html5"> Introduction of HTML5 </a>
     - [What is HTML?](https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#what-is-html)
+- <a href="" title="Chapter 1"> <b>Chapter 1</b> </a>
