@@ -8,3 +8,5 @@ Before the root element, there is a declaration. This declaration tells the brow
 This is the code to declare an HTML. The declaration is not part of the DOM tree.
 
 Basicly, it shows that you use HTML 5 version.
+
+<!DOCTYPE html>
