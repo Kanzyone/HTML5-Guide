@@ -28,7 +28,7 @@ Contents supported by this guide:
   - <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#introduction-of-html"> Introduction of HTML </a>
     - [What is HTML?](https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#what-is-html)
 - <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/Chapter_1.md" title="Chapter 1"> <b>Chapter 1</b> </a>
-  - [HTML Elements]()
+  - [HTML Elements](https://github.com/Kanzyone/HTML5-Guide/blob/main/Chapter_1.md#html-elements)
 
 <h1>Resources and Contributors</h1>
 
