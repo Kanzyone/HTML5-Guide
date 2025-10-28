@@ -1,5 +1,6 @@
+<div align="center">
 <h1>Setting Development Environment</h1>
-</p>
+</div>
 
 <h2>Browser</h2>
 
