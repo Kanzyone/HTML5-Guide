@@ -21,9 +21,6 @@ To know how to use visual studio code, watch the following [video](https://youtu
 
 HTML is used to build the skeleton or outline of any website. The skeleton or outline of the website is styled(beautified) by CSS(Cascading Style Sheet). JavaScript (JS) can make a website interactive and dynamic. HTML, CSS and JS are the core technologies to build websites and these are the skills required to be a web developer. This challenge will focus on HTML but we will use little CSS to make some HTML concepts more clear to the readers.
 
-
-
-<br>
 ## What is HTML?
 
 The word HTML is an acronym. That is stands for Hypertext Markup Language. It is the standard markup languages to develop websites. HTML is the build block of the web that allows building layouts of page using HTML elements. HTML is not not a programming language instead it is a markup language.
