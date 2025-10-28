@@ -1,7 +1,7 @@
 <h1>HTML5 Guide</h1>
 
 <p>
-This learning guide is designed for beginners who want to start learning web development or refresh their knowledge of HTML. It follows a structured format, progressing through chapters (Chapter 1, Chapter 2, Chapter 3, …) and each focusing on a specific topic. The goal is not just to memorize HTML tags, but to understand the logic behind them and learn by doing.
+This learning guide is designed for beginners who want to start learning web development or refresh their knowledge of HTML.
 
 
 By following this guide, you will: understand the basic structure of a web page, learn the most commonly used HTML tags, discover how to properly use elements like forms, tables, links, and media and eventually build your own simple web pages.
@@ -27,8 +27,8 @@ Contents supported by this guide:
     - [How to use Visual Studio Code](https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#how-to-use-visual-studio-code)
   - <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#introduction-of-html"> Introduction of HTML </a>
     - [What is HTML?](https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#what-is-html)
-- <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/Chapter_1.md" title="Chapter 1"> <b>Chapter 1</b> </a>
-  - [HTML Elements](https://github.com/Kanzyone/HTML5-Guide/blob/main/Chapter_1.md#html-elements)
+- <a href="" title="HTML Elements"> <b>1 - HTML Elements</b> </a>
+- <a href="" title="HTML Comments"> <b>2 - HTML Comments</b> </a>
 
 <h1>Resources and Contributors</h1>
 
