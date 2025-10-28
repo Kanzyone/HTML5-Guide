@@ -27,7 +27,7 @@ Contents supported by this guide:
     - [How to use Visual Studio Code](https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#how-to-use-visual-studio-code)
   - <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#introduction-of-html"> Introduction of HTML </a>
     - [What is HTML?](https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#what-is-html)
-- <a href="" title="Chapter 1"> <b>Chapter 1</b> </a>
+- <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/Chapter_1.md" title="Chapter 1"> <b>Chapter 1</b> </a>
   - [HTML Elements]()
 
 <h1>Resources and Contributors</h1>
