@@ -33,6 +33,8 @@ If you would like to become a contributor or sponsor, [contact me!](https://gith
 
 <h1>Contents</h1
 
+Contents supported by this guide, firs content about introduction the set up and a intro for HTML.
+
 - <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#setting-development-environment" title="Introduction"> <b>Introduction</b> </a>
   - <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#setting-development-environment"> Setting Development Environment</a>
     - [Browser](https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#browser)
