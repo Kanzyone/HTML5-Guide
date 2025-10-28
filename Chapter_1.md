@@ -1,5 +1,6 @@
 # Chapter 1
 
+## HTML Elements
 HTML elements consists of an open tag(<>), attribute(s), content and closing tag(<>). Look at the figure below to understand a syntax of an HTML element.
 
 ```html
