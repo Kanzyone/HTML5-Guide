@@ -18,4 +18,3 @@ I will use Visual studio code and I will use it in this challenge too. I strongl
 To know how to use visual studio code, watch the following [video](https://youtu.be/cu_ykIfBprI?si=_2-PMfP3MGc6OUKs)
 
 # Introduction of HTML5
-CmbEAAYASAAEgKKl_D_BwE&cid=CAASrwHkaII3ZMF-FQtj7NYNIUdSqIgPygmV-R
