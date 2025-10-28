@@ -20,7 +20,8 @@ Also the end of the guide, you’ll also find a final project to put everything 
 <h1>Resources and Contributors</h1>
 <p>
 The following resources were used in this project:
-https://www.w3schools.com/html/
+
+<a href="https://www.w3schools.com/html/" title="W3C Schools HTML Tutorial" target="_blank"> W3C HTML Tutorial </a> <br>
 <h1>Setting Development Environment</h1>
 </p>
 
