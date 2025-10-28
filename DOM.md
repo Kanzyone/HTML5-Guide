@@ -11,3 +11,24 @@ Basicly, it shows that you use HTML 5 version.
 ```html
 <!DOCTYPE html>
 ```
+## Root Element
+
+The html element is the root of the DOM tree and is the parent of **head** and **body**.
+The DOM try has to be wrapped by the html tag.
+```html
+<!DOCTYPE html>
+<html></html>
+```
+
+The html tag with two children, head and body.
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+
+  </head>
+  <body>
+    content goes here
+  </body>
+</html>
+```
