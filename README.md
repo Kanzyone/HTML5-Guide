@@ -17,6 +17,9 @@ Also the end of the guide, you’ll also find a final project to put everything 
 
 
 <h1>Contents</h1
+If you're starting web development from scratch, I recommend reviewing the "Introduction" section.
+
+The contents are listed in order from top to bottom. You can access them by clicking on each section.
 
 Contents supported by this guide:
 
