@@ -1,13 +1,21 @@
 <h1>HTML5 Guide</h1>
+
+<p>
 This learning guide is designed for beginners who want to start learning web development or refresh their knowledge of HTML. It follows a structured format, progressing through chapters (Chapter 1, Chapter 2, Chapter 3, …) and each focusing on a specific topic. The goal is not just to memorize HTML tags, but to understand the logic behind them and learn by doing.
+</p>
 
+<p>
 Each chapter includes: a short and clear explanation of the topic, code examples with real use cases, small exercises to practice and a quick summary at the end.
+</p>
 
+<p>
 By following this guide, you will: understand the basic structure of a web page, learn the most commonly used HTML tags, discover how to properly use elements like forms, tables, links, and media and eventually build your own simple web pages.
+</p>
 
-
-
+<p>
 I created this guide because I noticed that there aren’t many clear and beginner ,friendly, resources for people who want to start learning frontend development. Many people are interested in web development but don’t know where or how to begin. Although HTML is the foundation of everything in frontend, most tutorials are either too complex or poorly structured, which can make learning overwhelming. 
+</p>
+
 
 With this guide, my goal is to provide a simple, structured, and hands on starting point for anyone who wants to step into the world of frontend development. And I think the best thing of this guide, encourages learning by doing helping you understand the building blocks of HTML and gain the confidence to create your own web pages.
 
