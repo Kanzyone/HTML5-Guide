@@ -10,7 +10,7 @@ By following this guide, you will: understand the basic structure of a web page,
 
 I created this guide because I noticed that there aren’t many clear and beginner ,friendly, resources for people who want to start learning frontend development. Many people are interested in web development but don’t know where or how to begin. Although HTML is the foundation of everything in frontend, most tutorials are either too complex or poorly structured, which can make learning overwhelming. 
 
-With this guide, my goal is to provide a simple, structured, and hands on starting point for anyone who wants to step into the world of frontend development. And I think the best thing of this guide, encourages learning by doing helping you understand the building blocks of HTML and gain the confidence to create your own web pages. 🍀
+<div id="test"> With this guide, my goal is to provide a simple, structured, and hands on starting point for anyone who wants to step into the world of frontend development. And I think the best thing of this guide, encourages learning by doing helping you understand the building blocks of HTML and gain the confidence to create your own web pages. 🍀 </div>
 
 
 Also the end of the guide, you’ll also find a final project to put everything you’ve learned into practice! 🚀
@@ -28,6 +28,6 @@ The following resources were used in this project:
 <h1>Contents</h1>
 <p>
 
-<a href="#intro">Introduction</a>
+<a href="#test">Introduction</a>
 
 </p>
