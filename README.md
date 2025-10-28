@@ -13,10 +13,11 @@ I created this guide because I noticed that there aren’t many clear and beginn
 With this guide, my goal is to provide a simple, structured, and hands on starting point for anyone who wants to step into the world of frontend development. And I think the best thing of this guide, encourages learning by doing helping you understand the building blocks of HTML and gain the confidence to create your own web pages. 🍀
 
 
-
 Also the end of the guide, you’ll also find a final project to put everything you’ve learned into practice! 🚀
 </p>
 
+
+<h2>Resources and Contributors</h2>
 <h1>Setting Development Environment</h1>
 
 <h2>Browser</h2>
