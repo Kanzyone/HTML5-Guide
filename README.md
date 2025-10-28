@@ -19,18 +19,15 @@ Also the end of the guide, you’ll also find a final project to put everything 
 
 <h1>Resources and Contributors</h1>
 
-<p>
 - <a href="https://www.w3schools.com/html/" title="W3C Schools HTML Tutorial" target="_blank"> W3C HTML Tutorial </a> <br>
 - <a href="https://github.com/Asabeneh/30-Days-Of-HTML" title="30 Days of HTML" target="_blank"> 30 Days Of HTML </a> <br>
 - <a href="https://youtube.com/playlist?list=PLfAfrKyDRWrG7tK01yW92A2j7Ou0qpOFm&si=FRcSF5DIHlx18aGw" title="HTML courses by PROTOTURK" target="_blank"> HTML courses by PROTOTURK </a> <br>
 
 📚 Here are some of the most reliable and up to date resources you can use while learning HTML.
 This guide is inspired by the most practical and essential information found in these sources.
-</p>
 
 <h1>Contents</h1
-              
-<p>
+
 - <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#setting-development-environment" titel="Introduction"> <b>Introduction</b> </a>
   - test
-</p>
+
