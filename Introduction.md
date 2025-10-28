@@ -18,7 +18,9 @@ I will use Visual studio code and I will use it in this challenge too. I strongl
 
 To know how to use visual studio code, watch the following [video](https://youtu.be/cu_ykIfBprI?si=_2-PMfP3MGc6OUKs)
 
-# Introduction of HTML
+<div align="center"> 
+<h1>Introduction of HTML</h1>
+</div>
 
 HTML is used to build the skeleton or outline of any website. The skeleton or outline of the website is styled(beautified) by CSS(Cascading Style Sheet). JavaScript (JS) can make a website interactive and dynamic. HTML, CSS and JS are the core technologies to build websites and these are the skills required to be a web developer. This challenge will focus on HTML but we will use little CSS to make some HTML concepts more clear to the readers.
 
