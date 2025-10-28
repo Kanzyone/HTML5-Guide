@@ -30,6 +30,8 @@ This guide is inspired by the most practical and essential information found in 
 
 Thank you for your participation and support in this project: [@Tafun Erbilen](https://github.com/tayfunerbilen), [HTML Boilerplate](https://github.com/h5bp/html5-boilerplate)
 
+If you would like to become a contributor or sponsor, [contact me!]() 🤩
+
 <h1>Contents</h1
 
 - <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#setting-development-environment" titel="Introduction"> <b>Introduction</b> </a>
