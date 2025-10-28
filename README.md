@@ -28,7 +28,7 @@ Also the end of the guide, you’ll also find a final project to put everything 
 📚 Here are some of the most reliable and up to date resources you can use while learning HTML.
 This guide is inspired by the most practical and essential information found in these sources.
 
-Thanks for [@Tafun Erbilen](https://github.com/tayfunerbilen)
+Thank you for your participation and support in this project: [@Tafun Erbilen](https://github.com/tayfunerbilen)
 
 <h1>Contents</h1
 
