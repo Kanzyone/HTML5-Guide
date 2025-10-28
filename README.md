@@ -32,4 +32,4 @@ This guide is inspired by the most practical and essential information found in 
 
 - <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#setting-development-environment" titel="Introduction"> <b>Introduction</b> </a>
   - <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#setting-development-environment"> Setting Development Environment</a>
-
+  - <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#introduction-of-html5"> Introduction of HTML5 </a>
