@@ -19,7 +19,7 @@ Also the end of the guide, you’ll also find a final project to put everything 
 <h1>Resources and Contributors</h1>
 
 - [W3C HTML Tutorial](https://www.w3schools.com/html/)
-- [30 Days ofHTML](https://github.com/Asabeneh/30-Days-Of-HTML)
+- [30 Days of HTML](https://github.com/Asabeneh/30-Days-Of-HTML)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [HTML courses by PROTOTURK](https://youtube.com/playlist?list=PLfAfrKyDRWrG7tK01yW92A2j7Ou0qpOFm&si=FRcSF5DIHlx18aGw)
 
