@@ -21,7 +21,9 @@ Also the end of the guide, you’ll also find a final project to put everything 
 <p>
 The following resources were used in this project:
 
-<a href="https://www.w3schools.com/html/" title="W3C Schools HTML Tutorial" target="_blank"> W3C HTML Tutorial </a> <br>
+- <a href="https://www.w3schools.com/html/" title="W3C Schools HTML Tutorial" target="_blank"> W3C HTML Tutorial </a> <br>
+- <a href="https://github.com/Asabeneh/30-Days-Of-HTML" title="30 Days of HTML" target="_blank" 30 Days Of HTML </a> <br>
+
 <h1>Setting Development Environment</h1>
 </p>
 
