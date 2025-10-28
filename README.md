@@ -28,6 +28,6 @@ The following resources were used in this project:
 <h1>Contents</h1>
 <p>
 
-<a href="#test">Introduction</a>
+<a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#setting-development-environment" titel="Introduction"> Introduction </a>
 
 </p>
