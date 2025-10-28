@@ -30,7 +30,7 @@ This guide is inspired by the most practical and essential information found in 
 
 Thank you for your participation and support in this project: [@Tafun Erbilen](https://github.com/tayfunerbilen), [HTML Boilerplate](https://github.com/h5bp/html5-boilerplate)
 
-If you would like to become a contributor or sponsor, [contact me!]() 🤩
+If you would like to become a contributor or sponsor, [contact me!](https://github.com/Kanzyone) 🤩
 
 <h1>Contents</h1
 
