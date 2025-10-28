@@ -32,3 +32,16 @@ The html tag with two children, head and body.
   </body>
 </html>
 ```
+Create folder on the desktop and give it any name and inside this folder create an index.html file. Every HTML file has to end with a .html extension. And it is good to have at least on index.html or test.html file in the a project and the reset of the file will have different names.
+This a simplistic DOM structure that contains html, head, title, body, h1 elements.
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My first page</title>
+  </head>
+  <body>
+    Hello world!
+  </body>
+</html>
+```
