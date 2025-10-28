@@ -2,7 +2,7 @@
 
 <p>
 This learning guide is designed for beginners who want to start learning web development or refresh their knowledge of HTML. It follows a structured format, progressing through chapters (Chapter 1, Chapter 2, Chapter 3, …) and each focusing on a specific topic. The goal is not just to memorize HTML tags, but to understand the logic behind them and learn by doing.
-�
+
 
 By following this guide, you will: understand the basic structure of a web page, learn the most commonly used HTML tags, discover how to properly use elements like forms, tables, links, and media and eventually build your own simple web pages.
 
