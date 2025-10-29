@@ -1,4 +1,4 @@
-<h1>HTML5 Guide</h1> ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+<h1>HTML5 Guide</h1> 
 
 <p>
 This learning guide is designed for beginners who want to start learning web development or refresh their knowledge of HTML.
