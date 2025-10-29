@@ -16,7 +16,6 @@ With this guide, my goal is to provide a simple, structured, and hands on starti
 <h1>Contents</h1
            
 If you're starting web development from scratch, I recommend reviewing the "Introduction" section.
-
 The contents are listed in order from top to bottom and you can access them by clicking on each section.
 
 Contents supported by this guide:
