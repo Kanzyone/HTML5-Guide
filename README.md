@@ -33,6 +33,8 @@ Contents supported by this guide:
   - [Declaration](https://github.com/Kanzyone/HTML5-Guide/blob/main/DOM.md#declaration)
   - [Root Element](https://github.com/Kanzyone/HTML5-Guide/blob/main/DOM.md#root-element)
 - <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/Charset%20and%20Language%20of%20Elements.md#charset-and-language-of-elements" title="Charset and language of elements"> <b>Charset and Language of Elements</b> </a>
+- <a href="" title="Paragraph Element"> <b>Paragraph Element</b> </a>
+- <a href="" title="Heading Element"> <b>Heading Element</b> </a>
 
 <h1>Resources and Contributors</h1>
 
