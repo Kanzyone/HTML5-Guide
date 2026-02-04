@@ -36,7 +36,7 @@ Contents supported by this guide:
 - <a href="" title="Paragraph Element"> <b>Paragraph Element</b> </a>
 - <a href="" title="Heading Element"> <b>Heading Element</b> </a>
 
-<h1>Resources and Contributors</h1>
+<h1>Resources</h1>
 
 - [W3C HTML Tutorial](https://www.w3schools.com/html/)
 - [30 Days of HTML](https://github.com/Asabeneh/30-Days-Of-HTML)
