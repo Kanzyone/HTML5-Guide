@@ -47,6 +47,4 @@ Contents supported by this guide:
 📚 Here are some of the most reliable and up to date resources you can use while learning HTML.
 This guide is inspired by the most practical and essential information found in these sources.
 
-Thank you for your participation and support in this project: [@Tafun Erbilen](https://github.com/tayfunerbilen), [HTML Boilerplate](https://github.com/h5bp/html5-boilerplate)
-
-If you would like to become a contributor or sponsor, [contact me!](https://github.com/Kanzyone) 🤩
+If you would like to become a contributor or sponsor, [contact me!](https://github.com/Kanzyone)
