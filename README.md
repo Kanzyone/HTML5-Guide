@@ -70,6 +70,12 @@ This guide is inspired by the most practical and essential information found in 
 
 If you have any questions, feel free to ask in ismailyucel2009@gmail.com
 
+
+
+
+------+
+
+
 <header>
   <h1>HTML5 Guide</h1>
   <p>
