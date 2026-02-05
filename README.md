@@ -37,6 +37,8 @@ Contents supported by this guide:
 - <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/Paragraph%20Element.md#paragraph-element" title="Paragraph Element"> <b>Paragraph Element</b> </a>
 - <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/Heading%20Element.md#heading-elements" title="Heading Element"> <b>Heading Element</b> </a>
 - <a href="" title="Div & Span"> <b>Div & Span</b> </a>
+  - <a href="" title="div"> div </a>
+  - <a href="" title="span"> span </a>
   - <a href="" title="Summary of differences"> Summary of differences </a>
 - <a href="" title="Formating Elements"> <b>Formating Elements</b> </a>
   - <a href="" title="b"> b </a>
