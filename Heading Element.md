@@ -2,7 +2,7 @@
 
 HTML is a markup language. We mark a content using an HTML tag and the browser render it to a clean web page. The h1 tag means making a text to be a large font size text, by default it creates 32px size text. We have h1 to h6 different tags to write different font size title. Pixel(px) is a unit to measure size which is as small as a dot.
 
-<!DOCTYPE html>
+```<!DOCTYPE html>
 <html>
   <head>
     <title>30 Days Of HTML</title>
@@ -16,6 +16,7 @@ HTML is a markup language. We mark a content using an HTML tag and the browser r
     <h6>Sixth level heading</h6>
   </body>
 </html>
+```
 
 The size of the h1 to h6 tags:
 * h1 is 32px (2em)
