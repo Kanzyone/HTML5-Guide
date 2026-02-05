@@ -2,7 +2,7 @@
 
 Now, let's add paragraph to our web page using the p tag.
 
-<!DOCTYPE html>
+```<!DOCTYPE html>
 <html>
   <head>
     <title>30 Days Of HTML</title>
@@ -14,6 +14,6 @@ Now, let's add paragraph to our web page using the p tag.
       applications
     </p>
   </body>
-</html>
+</html>```
 
 Now, there are six elements in the above HTML code. An HTML element may have a parent, a child, sibling(s). The html element is the root or the parent of the head and body. The head and body are children of the html tag.The head and body are siblings. The title is the child of the head. The body has two children, the h1 and p.
