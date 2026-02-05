@@ -1,7 +1,7 @@
 <h1>HTML Foundations</h1>
 
 <p>
-This learning guide is designed for beginners who want to start learning web development or refresh their knowledge of HTML.
+This guide is built to help beginners take their first step into web development and strengthen their understanding of HTML fundamentals.
 </p>
 
 <p>
