@@ -37,6 +37,19 @@ Contents supported by this guide:
 - <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/Heading%20Element.md#heading-elements" title="Heading Element"> <b>Heading Element</b> </a>
 - <a href="" title="Div & Span"> <b>Div & Span</b> </a>
   - <a href="" title="Summary of differences"> Summary of differences </a>
+- <a href="" title="Formating Elements"> <b>Formating Elements</b> </a>
+  - <a href="" title="b"> b </a>
+  - <a href="" title="strong"> strong </a>
+  - <a href="" title="i"> i </a>
+  - <a href="" title="em"> em </a>
+  - <a href="" title="mark"> mark </a>
+  - <a href="" title="small"> small </a>
+  - <a href="" title="del"> del </a>
+  - <a href="" title="ins"> ins </a>
+  - <a href="" title="sub"> sub </a>
+  - <a href="" title="sup"> sup </a>
+  - <a href="" title="pre"> pre </a>
+  - <a href="" title="u"> u </a>
 
 <h1>Resources</h1>
 
