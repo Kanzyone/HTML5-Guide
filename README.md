@@ -50,6 +50,8 @@ Contents supported by this guide:
   - <a href="" title="sup"> sup </a>
   - <a href="" title="pre"> pre </a>
   - <a href="" title="u"> u </a>
+- <a href="" title="Link Tag"> <b>Link Tag</b> </a>
+- <a href="" title="Download Tag"> <b>Download Tag</b> </a>
 
 <h1>Resources</h1>
 
