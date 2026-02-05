@@ -1,4 +1,4 @@
-<h1>HTML5 Guide</h1>
+<h1>HTML Foundations</h1>
 
 <p>
 This learning guide is designed for beginners who want to start learning web development or refresh their knowledge of HTML.
