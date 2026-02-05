@@ -29,121 +29,119 @@ The contents are listed in order from top to bottom and you can access them by c
 
 <h2>Contents supported by this guide:</h2>
 
-<ul>
+<ol>
   <li>
-    <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#setting-development-environment">
-      <b>Introduction</b>
-    </a>
+    <h3>Introduction</h3>
     <ul>
-      <li><a href="">About WEB</a></li>
+      <li>Introduction</li>
+      <li>About the Web</li>
+      <li>Internet</li>
       <li>
-        <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#setting-development-environment">
-          Setting Development Environment
-        </a>
+        Setting Development Environment
         <ul>
-          <li>
-            <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#browser">Browser</a>
-          </li>
-          <li>
-            <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#code-editor">Code Editor</a>
-          </li>
-          <li>
-            <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#how-to-use-visual-studio-code">
-              How to use Visual Studio Code
-            </a>
-          </li>
+          <li>Browser</li>
+          <li>Code Editor</li>
+          <li>How to use Visual Studio Code</li>
         </ul>
       </li>
+      <li>Introduction to HTML</li>
+      <li>What is HTML?</li>
+      <li>W3C and Web Standards</li>
+    </ul>
+  </li>
+
+  <li>
+    <h3>HTML Fundamentals</h3>
+    <ul>
+      <li>HTML Elements</li>
+      <li>HTML Document Structure</li>
+      <li>Charset and Language of Elements</li>
+      <li>HTML Comment</li>
+    </ul>
+  </li>
+
+<li>
+    <h3>DOM</h3>
+    <ul>
+      <li>What is DOM?</li>
+      <li>DOM Tree Structure</li>
+       <ul>
+         <li>Declaration</li>
+         <li>Root Element</li>
+       </ul>
+      <li>Elements and Nodes</li>
+       <ul>
+         <li>What is a Node?</li>
+         <li>What is an Element?</li>
+         <li>Types of Nodes</li>
+         <li>DOM Tree connection</li>
+       </ul>
+      <li>How Browsers Read HTML</li>
+    </ul>
+  </li>
+
+  <li>
+    <h3>Text & Content Elements</h3>
+    <ul>
+      <li>Paragraph Element</li>
+      <li>Heading Elements</li>
       <li>
-        <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#introduction-of-html">
-          Introduction of HTML
-        </a>
+        Formatting Elements
         <ul>
-          <li>
-            <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#what-is-html">
-              What is HTML?
-            </a>
-          </li>
+          <li>b</li>
+          <li>strong</li>
+          <li>i</li>
+          <li>em</li>
+          <li>mark</li>
+          <li>small</li>
+          <li>del</li>
+          <li>ins</li>
+          <li>sub</li>
+          <li>sup</li>
+          <li>pre</li>
+          <li>u</li>
         </ul>
       </li>
-      <li><a href="">W3C</a></li>
     </ul>
   </li>
 
   <li>
-    <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/HTML%20Elements.md#html-elements">
-      <b>HTML Elements</b>
-    </a>
-  </li>
-
-  <li>
-    <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/HTML%20Comment.md#html-comment">
-      <b>HTML Comment</b>
-    </a>
-  </li>
-
-  <li>
-    <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/DOM.md#dom">
-      <b>DOM</b>
-    </a>
+    <h3>Layout Basics</h3>
     <ul>
       <li>
-        <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/DOM.md#declaration">Declaration</a>
+        Div & Span
+        <ul>
+          <li>div</li>
+          <li>span</li>
+          <li>Summary of Differences</li>
+        </ul>
       </li>
-      <li>
-        <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/DOM.md#root-element">Root Element</a>
-      </li>
+      <li>Block and Inline Elements</li>
     </ul>
   </li>
 
   <li>
-    <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/Charset%20and%20Language%20of%20Elements.md#charset-and-language-of-elements">
-      <b>Charset and Language of Elements</b>
-    </a>
-  </li>
-
-  <li>
-    <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/Paragraph%20Element.md#paragraph-element">
-      <b>Paragraph Element</b>
-    </a>
-  </li>
-
-  <li>
-    <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/Heading%20Element.md#heading-elements">
-      <b>Heading Element</b>
-    </a>
-  </li>
-
-  <li>
-    <b>Div & Span</b>
+    <h3>Links</h3>
     <ul>
-      <li><a href="">div</a></li>
-      <li><a href="">span</a></li>
-      <li><a href="">Summary of differences</a></li>
+      <li>Link Tag</li>
+      <li>Download Tag</li>
+      <li>Absolute and Relative Links</li>
+      <li>Anchor Navigation</li>
     </ul>
   </li>
 
+  
   <li>
-    <b>Formatting Elements</b>
+    <h3>Media Elements</h3>
     <ul>
-      <li><a href="">b</a></li>
-      <li><a href="">strong</a></li>
-      <li><a href="">i</a></li>
-      <li><a href="">em</a></li>
-      <li><a href="">mark</a></li>
-      <li><a href="">small</a></li>
-      <li><a href="">del</a></li>
-      <li><a href="">ins</a></li>
-      <li><a href="">sub</a></li>
-      <li><a href="">sup</a></li>
-      <li><a href="">pre</a></li>
-      <li><a href="">u</a></li>
+      <li>Image</li>
+      <li>Video</li>
+      <li>Audio</li>
     </ul>
   </li>
+</ol>
 
-  <li><b>Link Tag</b></li>
-  <li><b>Download Tag</b></li>
-</ul>
+
 
 <h1>Resources</h1>
 <p>
