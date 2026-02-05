@@ -146,6 +146,10 @@ The contents are listed in order from top to bottom and you can access them by c
 </ul>
 
 <h1>Resources</h1>
+<p>
+📚 Here are some of the most reliable and up to date resources you can use while learning HTML.
+This guide is inspired by the most practical and essential information found in these sources.
+</p>
 
 <ul>
   <li><a href="https://www.w3schools.com/html/">W3C HTML Tutorial</a></li>
@@ -157,11 +161,6 @@ The contents are listed in order from top to bottom and you can access them by c
     </a>
   </li>
 </ul>
-
-<p>
-📚 Here are some of the most reliable and up to date resources you can use while learning HTML.
-This guide is inspired by the most practical and essential information found in these sources.
-</p>
 
 <p>
 If you have any questions, feel free to ask at:
