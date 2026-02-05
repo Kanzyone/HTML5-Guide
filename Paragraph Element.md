@@ -2,7 +2,8 @@
 
 Now, let's add paragraph to our web page using the p tag.
 
-```<!DOCTYPE html>
+```html
+<!DOCTYPE html>
 <html>
   <head>
     <title>30 Days Of HTML</title>
