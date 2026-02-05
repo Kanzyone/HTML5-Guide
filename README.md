@@ -64,4 +64,4 @@ Contents supported by this guide:
 📚 Here are some of the most reliable and up to date resources you can use while learning HTML.
 This guide is inspired by the most practical and essential information found in these sources.
 
-If you have any questions, feel free to ask in [My Github Profile!](https://github.com/Kanzyone)
+If you have any questions, feel free to ask in ismailyucel2009@gmail.com
