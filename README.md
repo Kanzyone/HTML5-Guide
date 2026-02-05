@@ -21,6 +21,7 @@ The contents are listed in order from top to bottom and you can access them by c
 Contents supported by this guide:
 
 - <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#setting-development-environment" title="Introduction"> <b>Introduction</b> </a>
+- <a href="" title="About WEB"> About WEB </a>
   - <a href="https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#setting-development-environment"> Setting Development Environment</a>
     - [Browser](https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#browser)
     - [Code Editor](https://github.com/Kanzyone/HTML5-Guide/blob/main/Introduction.md#code-editor)
