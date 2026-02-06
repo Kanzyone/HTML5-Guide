@@ -121,7 +121,7 @@ Contents supported by this guide:
   </li>
 
   <li>
-    <h3><a href="#"><strong>Layout Basics</strong></a></h3>
+    <h3><a href="#"><strong>Page Layout and Structure</strong></a></h3>
     <ul>
       <li><a href="#">Div and Span</a></li>
       <li><a href="#">Block and Inline Elements</a></li>
@@ -138,7 +138,7 @@ Contents supported by this guide:
   </li>
 
   <li>
-    <h3><a href="#"><strong>Links</strong></a></h3>
+    <h3><a href="#"><strong>Linking</strong></a></h3>
     <ul>
       <li><a href="#">Link Tag</a></li>
       <li><a href="#">Download Tag</a></li>
@@ -157,7 +157,7 @@ Contents supported by this guide:
   </li>
 
   <li>
-    <h3><a href="#"><strong>Table</strong></a></h3>
+    <h3><a href="#"><strong>Data Structure</strong></a></h3>
     <ul>
       <li><a href="#">HTML Table Elements</a></li>
       <li>
