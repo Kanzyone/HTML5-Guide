@@ -526,8 +526,6 @@ Example of basic syntax:
 ```
 <br>
 
-<p>Syntax breakdown:</p> 
-<ul> 
   <li><code>&lt;h1&gt;</code> - Opening tag</li> 
   <li><code>Welcome</code> - Content</li> 
   <li><code>&lt;/h1&gt;</code> - Closing tag</li> </ul>
@@ -550,7 +548,6 @@ Example:
 <a href="https://example.com">Visit</a>
 ```
 
-<p>Syntax breakdown:</p> 
 <ul> 
   <li><code>&lt;a</code> - Opening tag starts</li> 
   <li><code>href="https://example.com"</code> - Attribute</li> 
