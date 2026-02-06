@@ -257,16 +257,13 @@ They are used by professional developers and recommended for long term learning.
   <h1>1. Introduction</h1>
 </div>
 
-<p>
-This section introduces the fundamental concepts of web development and explains how HTML forms the structure of every web page.
-Before starting to write code, it is important to understand how the web works, what tools developers use, and how different
-technologies connect to each other.
-</p>
-
-<p>
-In this part of the guide, you will explore the basics of the internet, the role of HTML in modern websites, and the essential
-tools required to begin your journey in frontend development.
-</p>
+<h2>Web</h2>
+<h3>How the Web Works</h3>
+<h3>Frontend Web Development</h3>
+<h3>Backend Web Development</h3>
+<h3>Fullstack Web Development</h3>
+<h3>Web Development Tools</h3>
+<h3>Parts of a Website</h3>
 
 <h2>Setting Development Environment</h2>
 
