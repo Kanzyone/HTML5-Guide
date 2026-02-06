@@ -157,7 +157,7 @@ Contents supported by this guide:
   </li>
 
   <li>
-    <h3><a href="#"><strong>Data Structure</strong></a></h3>
+    <h3><a href="#"><strong>Data Elements</strong>strong></a></h3>
     <ul>
       <li><a href="#">HTML Table Elements</a></li>
       <li>
