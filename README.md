@@ -58,9 +58,9 @@ Contents supported by this guide:
 
 <ol>
   <li>
-    <h3><a href="#introduction">Introduction</a></h3>
+    <h3><a href="#introduction-section1">Introduction</a></h3>
     <ul>
-      <li><a href="#introduction">Introduction</a></li>
+      <li><a href="#introduction-section1">Introduction</a></li>
       <li>
         <a href="https://github.com/Kanzyone/HTML5-Foundations#web">Web</a>
         <ul>
@@ -252,8 +252,9 @@ They are used by professional developers and recommended for long term learning.
 <br>
 
 <div align="center">
-  <h1>1. Introduction</h1>
+  <h1 id="introduction-section1">1. Introduction</h1>
 </div>
+
 <p>
 This section provides a general overview of the web and introduces the basic concepts needed to begin learning web development.
 Before diving into HTML, it is important to understand what the web is, how it works, and how different parts of a website are connected.
