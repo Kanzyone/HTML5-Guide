@@ -70,6 +70,7 @@ Contents supported by this guide:
           <li><a href="DOM.md#what-is-an-element">Backend Web Development</a></li>
           <li><a href="DOM.md#types-of-nodes">Fullstack Web Development</a></li>
           <li><a href="">Web Development Tools</a></li>
+           <li><a href="">Parts of a Website</a></li>
         </ul>
       </li>
       <li><a href="Introduction.md#internet">Internet</a></li>
@@ -109,6 +110,15 @@ Contents supported by this guide:
         </ul>
       </li>
       <li>
+          <a href="">Text and Content Elements</a>
+         <ul>
+           <li><a href="Paragraph Element.md#paragraph-element">Paragraph Element</a></li>
+      <li><a href="Heading Element.md#heading-elements">Heading Elements</a></li>
+      <li>
+        <a href="HTML5 Formatting Elements.md#formatting-elements">Formatting Elements</a>
+      </li>
+         </ul>
+      <li>
         <a href="DOM.md#elements-and-nodes">Elements and Nodes</a>
         <ul>
           <li><a href="DOM.md#what-is-a-node">What is a Node?</a></li>
@@ -127,21 +137,7 @@ Contents supported by this guide:
       <li><a href="Paragraph Element.md#paragraph-element">Paragraph Element</a></li>
       <li><a href="Heading Element.md#heading-elements">Heading Elements</a></li>
       <li>
-        <a href="Formatting Elements.md#formatting-elements">Formatting Elements</a>
-        <ul>
-          <li><a href="Formatting Elements.md#b">b</a></li>
-          <li><a href="Formatting Elements.md#strong">strong</a></li>
-          <li><a href="Formatting Elements.md#i">i</a></li>
-          <li><a href="Formatting Elements.md#em">em</a></li>
-          <li><a href="Formatting Elements.md#mark">mark</a></li>
-          <li><a href="Formatting Elements.md#small">small</a></li>
-          <li><a href="Formatting Elements.md#del">del</a></li>
-          <li><a href="Formatting Elements.md#ins">ins</a></li>
-          <li><a href="Formatting Elements.md#sub">sub</a></li>
-          <li><a href="Formatting Elements.md#sup">sup</a></li>
-          <li><a href="Formatting Elements.md#pre">pre</a></li>
-          <li><a href="Formatting Elements.md#u">u</a></li>
-        </ul>
+        <a href="HTML5 Formatting Elements.md#formatting-elements">Formatting Elements</a>
       </li>
     </ul>
   </li>
@@ -184,9 +180,10 @@ Contents supported by this guide:
   <li>
     <h3><a href="Table.md">Table</a></h3>
     <ul>
-      <li><a href="Table.md#table-elements">Table Elements</a></li>
+      <li><a href="Table.md#table-elements">HTML Table Elements</a></li>
+      <li><a href="Table.md#table-elements">HTML Form Elements</a></li>
       <li><a href="Table.md#iframe">Iframe</a></li>
-      <li><a href="Table.md#list-tags">List Tags</a></li>
+      <li><a href="Table.md#list-tags">Lists</a></li>
     </ul>
   </li>
 </ol>
