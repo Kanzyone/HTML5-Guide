@@ -259,7 +259,52 @@ They are used by professional developers and recommended for long term learning.
 
 <h2>Web</h2>
 <h3>How the Web Works</h3>
+<p>By now you should have clear understanding how the web works based on the information you get on the above two sections. If you want to know more you may also read this <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works">article</a>.</p>
 <h3>Frontend Web Development</h3>
+<p>
+The frontend, also known as client-side development, is the part of a website that users can see and interact with directly.
+It represents everything that appears in the browser when you visit a website.
+</p>
+
+<p>
+All visible elements such as colors, fonts, buttons, images, videos, audio, layouts, and text content are part of the frontend.
+In simple terms, anything you can see or interact with on a webpage belongs to the frontend.
+</p>
+
+<p>
+The technologies used to build the frontend of a website are called <strong>frontend technologies</strong>.
+The core technologies used to create the frontend are:
+</p>
+
+<ul>
+  <li><strong>HTML</strong> – Builds the structure of the page</li>
+  <li><strong>CSS</strong> – Styles and designs the page</li>
+  <li><strong>JavaScript</strong> – Makes the page interactive and dynamic</li>
+</ul>
+
+<p>
+There are also many JavaScript libraries and frameworks that help developers build modern and dynamic web applications more efficiently.
+Some of the most popular ones are:
+</p>
+
+<ul>
+  <li>React</li>
+  <li>Vue</li>
+  <li>Angular</li>
+</ul>
+
+<h4>Recommended Learning Order</h4>
+
+<p>
+To build a strong foundation in frontend development, it is important to follow the correct learning sequence.
+You should first understand the basics before moving on to more advanced tools.
+</p>
+
+<ul>
+  <li>Do not start learning JavaScript before understanding HTML and CSS.</li>
+  <li>Do not learn JavaScript libraries before learning JavaScript itself.</li>
+</ul>
+
 <h3>Backend Web Development</h3>
 <h3>Fullstack Web Development</h3>
 <h3>Web Development Tools</h3>
