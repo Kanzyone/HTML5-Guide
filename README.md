@@ -134,12 +134,7 @@ Contents supported by this guide:
     <h3><a href="">Layout Basics</a></h3>
     <ul>
       <li>
-        <a href="">Div & Span</a>
-        <ul>
-          <li><a href="">div</a></li>
-          <li><a href="">span</a></li>
-          <li><a href="">Summary of Differences</a></li>
-        </ul>
+        <a href="">Div and Span</a>
       </li>
       <li><a href="">Block and Inline Elements</a></li>
     </ul>
