@@ -322,7 +322,6 @@ If you are new to Visual Studio Code, you can learn the basics by watching the f
 </p>
 
 <br>
-
 <h2>Introduction to HTML</h2>
 
 <p>
