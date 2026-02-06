@@ -62,12 +62,14 @@ Contents supported by this guide:
     <ul>
       <li><a href="Introduction.md#introduction">Introduction</a></li>
       <li>
-        <a href="DOM.md#elements-and-nodes">Web Development</a>
+        <a href="DOM.md#elements-and-nodes">Web</a>
         <ul>
           <li><a href="">About the Web</a></li>
+          <li><a href="">How the Web Works?</a></li>
           <li><a href="DOM.md#what-is-a-node">Frontend Web Development</a></li>
           <li><a href="DOM.md#what-is-an-element">Backend Web Development</a></li>
           <li><a href="DOM.md#types-of-nodes">Fullstack Web Development</a></li>
+          <li><a href="">Web Development Tools</a></li>
         </ul>
       </li>
       <li><a href="Introduction.md#internet">Internet</a></li>
