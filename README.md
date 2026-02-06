@@ -253,44 +253,109 @@ They are used by professional developers and recommended for long term learning.
 <br>
 <br>
 
-<div align="center"> 
-<h1>1. Introduction</h1>
+<div align="center">
+  <h1>1. Introduction</h1>
 </div>
+
+<p>
+This section introduces the fundamental concepts of web development and explains how HTML forms the structure of every web page.
+Before starting to write code, it is important to understand how the web works, what tools developers use, and how different
+technologies connect to each other.
+</p>
+
+<p>
+In this part of the guide, you will explore the basics of the internet, the role of HTML in modern websites, and the essential
+tools required to begin your journey in frontend development.
+</p>
 
 <h2>Setting Development Environment</h2>
 
+<p>
+Before writing HTML code, you need to prepare a simple development environment. This includes choosing a web browser to view your
+pages and a code editor to write and manage your code.
+</p>
+
+<p>
+Having the right tools makes the learning process easier and more productive. In this section, you will learn which browser to use,
+which code editor to install, and how to set up your workspace for web development.
+</p>
+
 <h3>Browser</h3>
 
-There are many browsers out there but most developers prefer to use Google Chrome or FireFox. I usually use Google chrome for development and I recommend it too. <a href="https://www.google.com/aclk?sa=L&ai=DChsSEwid-qOt7caQAxWDU38AHT74KZsYACICCAEQARoCb2E&co=1&gclid=EAIaIQobChMInfqjre3GkAMVg1N_AB0--SsnH8EzLaU85Of6v5vdZhfwHc2qzEqenBE7EBwibV1JKUQENe0ifVJLUKoub5e0HsKrt98e1viJNEAUTM8cZ1gQ95aJzBSHEHKU8iv0vby0M0zeZOgy-Brvj2w-UWdpunvrMj77EbAmbHZuvrU81SrEGwPuYzMh5dBmIKQN7XgqM5g63Gmf2HRNCmoEgTXhJtGO2dGou3d&cce=1&sig=AOD64_1jmEVdKRpamXAvGKVCTmM722-qaQ&q&adurl&ved=2ahUKEwjmh5-t7caQAxV44ckDHbkNDLYQ0Qx6BAgWEAE" title="Google site" target="_blank"> Download Google Chrome </a> if you do not have one.
+<p>
+There are many web browsers available, but most developers prefer to use Google Chrome or Firefox for development.
+I personally use Google Chrome and highly recommend it.
+<a href="https://www.google.com/chrome/" title="Download Google Chrome" target="_blank">
+  Download Google Chrome
+</a>
+if you do not have it installed.
+</p>
 
-HTML supports many browsers such as Safari, Opera, FireFox, Edge and Google Chrome. So I don't think so you will be have any problem for browser.
+<p>
+HTML is supported by all modern browsers, including Safari, Opera, Firefox, Edge, and Google Chrome.
+Therefore, you should not face any issues viewing HTML pages in any standard browser.
+</p>
 
 <h3>Code Editor</h3>
 
-As web developer, you should write code using a text or code editor. Therefore, to write HTML code, CSS, JS, React or other you need to have a code edit.
+<p>
+As a web developer, you should write and manage your code using a text or code editor. To create HTML, CSS, and JavaScript files,
+you need a reliable and easy-to-use editor.
+</p>
 
-I will use Visual studio code and I will use it in this challenge too. I strongly suggest to use Visual Studio Code because it has lots of productivity extensions that makes super productive. Now, let's [Download Visual Studio Code](https://code.visualstudio.com/download).
+<p>
+In this guide, we will use Visual Studio Code. It is one of the most popular code editors because it is lightweight,
+powerful, and has many useful extensions that improve productivity.
+You can download it here:
+<a href="https://code.visualstudio.com/download" target="_blank">
+  Download Visual Studio Code
+</a>.
+</p>
 
 <h3>How to use Visual Studio Code</h3>
 
-To know how to use visual studio code, watch the following [video](https://youtu.be/cu_ykIfBprI?si=_2-PMfP3MGc6OUKs)
+<p>
+If you are new to Visual Studio Code, you can learn the basics by watching the following video:
+<a href="https://youtu.be/cu_ykIfBprI?si=_2-PMfP3MGc6OUKs" target="_blank">
+  Watch tutorial video
+</a>.
+</p>
 
 <br>
 
-<h2>Introduction of HTML</h2>
+<h2>Introduction to HTML</h2>
 
-HTML is used to build the skeleton or outline of any website. The skeleton or outline of the website is styled(beautified) by CSS(Cascading Style Sheet). JavaScript (JS) can make a website interactive and dynamic. HTML, CSS and JS are the core technologies to build websites and these are the skills required to be a web developer. This challenge will focus on HTML but we will use little CSS to make some HTML concepts more clear to the readers.
+<p>
+HTML is used to build the structure (skeleton) of every website. This structure is styled using CSS (Cascading Style Sheets),
+and JavaScript (JS) is used to make websites interactive and dynamic.
+</p>
+
+<p>
+HTML, CSS, and JavaScript are the three core technologies of web development. These are the essential skills required to become
+a web developer. This guide will mainly focus on HTML, but in some sections, small amounts of CSS may be used to make certain
+concepts easier to understand.
+</p>
 
 <h3>What is HTML?</h3>
 
-The word HTML is an acronym. That is stands for Hypertext Markup Language. It is the standard markup languages to develop websites. HTML is the build block of the web that allows building layouts of page using HTML elements. HTML is not not a programming language instead it is a markup language.
-HTML code will be rendered by a browser and it give a human readable output. Look at the figure bellow to understand better how the HTML code convert to a website using a browser.
+<p>
+HTML is an acronym that stands for <strong>HyperText Markup Language</strong>. It is the standard markup language used to create
+web pages and structure their content.
+</p>
 
+<p>
+HTML is the building block of the web. It allows developers to create the layout of a page using elements such as headings,
+paragraphs, images, links, and more.
+</p>
 
+<p>
+HTML is not a programming language. Instead, it is a markup language that describes the structure of content on a webpage.
+When a browser reads HTML code, it renders it and displays a human-readable web page.
+</p>
 
-
-
-
+<p>
+Look at the figure below to better understand how HTML code is converted into a visible web page by a browser.
+</p>
 
 
 
