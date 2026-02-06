@@ -310,8 +310,8 @@ HTML code will be rendered by a browser and it give a human readable output. Loo
 
 
 
-
-
+<br>
+<br>
 
 <hr>
 <h2>Skills you will get:</h2>
