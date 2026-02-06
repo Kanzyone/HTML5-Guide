@@ -71,7 +71,9 @@ Contents supported by this guide:
           <li><a href="#partsofawebsite">Parts of a Website</a></li>
         </ul>
       </li>
-      <li><a href="#internet">Internet</a></li>
+     
+
+<ul>
       <li>
         <a href="#settingdevelopment">Setting Development Environment</a>
         <ul>
