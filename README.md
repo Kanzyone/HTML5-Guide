@@ -9,7 +9,7 @@ By following this guide, you will: understand the basic structure of a web page,
 </p>
 
 <p>
-I created this guide because I noticed that there aren’t many clear and beginner-friendly resources for people who want to start learning frontend development. When I started developing and learning about web development, I couldn't find the kind of resources I wanted, so I decided to create my own resource using information from other sources and what I had learned myself.
+I created this guide because I noticed that there aren’t many clear and beginner resources for people who want to start learning frontend development. When I started developing and learning about web development, I couldn't find the kind of resources I wanted, so I decided to create my own resource using information from other sources and what I had learned myself.
 </p>
 
 <p>
@@ -17,7 +17,7 @@ Not only did this prove very helpful to me during my learning process, but I als
 </p>
 
 <p>
-With this guide, my goal is to provide a simple, structured, and hands-on starting point for anyone who wants to step into the world of frontend development. I believe the best part of this guide is that it encourages learning by doing, helping you understand the building blocks of HTML and gain the confidence to create your own web pages!
+With this guide, my goal is to provide a simple, structured, and hands on starting point for anyone who wants to step into the world of frontend development. I believe the best part of this guide is that it encourages learning by doing, helping you understand the building blocks of HTML and gain the confidence to create your own web pages!
 </p>
 
 <br>
