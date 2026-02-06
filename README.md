@@ -58,11 +58,11 @@ Contents supported by this guide:
 
 <ol>
   <li>
-    <h3><a href="#introduction-section1">Introduction</a></h3>
+    <h3><a href="#introduction">Introduction</a></h3>
     <ul>
-      <li><a href="#introduction-section1">Introduction</a></li>
+      <li><a href="#introduction">Introduction</a></li>
       <li>
-        <a href="https://github.com/Kanzyone/HTML5-Foundations#web">Web</a>
+        <a href="#web">Web</a>
         <ul>
           <li><a href="https://github.com/Kanzyone/HTML5-Foundations#how-the-web-works">How the Web Works?</a></li>
           <li><a href="https://github.com/Kanzyone/HTML5-Foundations#frontend-web-development">Frontend Web Development</a></li>
@@ -252,7 +252,7 @@ They are used by professional developers and recommended for long term learning.
 <br>
 
 <div align="center">
-  <h1 id="introduction-section1">1. Introduction</h1>
+  <h1 id="introduction">1. Introduction</h1>
 </div>
 
 <p>
@@ -267,7 +267,7 @@ and backend technologies in building modern websites. This foundation will help 
 
 <br>
 
-<h2>Web</h2>
+<h2 id="web"> Web</h2>
 <p>
 The web, also known as the World Wide Web (WWW), is a global system that allows people to access and share information through the internet.
 It is made up of millions of websites that can be opened and viewed using a web browser such as Google Chrome, Firefox, or Safari.
