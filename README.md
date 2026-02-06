@@ -87,6 +87,9 @@ Contents supported by this project:
     <h3><a href="#htmlfundamentals"><strong>HTML Fundamentals</strong></a></h3>
     <ul>
       <li><a href="#htmlelements">HTML Elements</a></li>
+      <ul>
+        <li><a href="#attribute">Attribute</a></li>
+      </ul>
       <li><a href="#">HTML Document Structure</a></li>
       <li><a href="#">Accessibility Basics</a></li>
       <li><a href="#">Basic SEO with HTML</a></li>
@@ -520,6 +523,7 @@ An HTML element usually consists of:
 
 An HTML element follows a clear and predictable structure. This structure is called the syntax.
 
+
 Example of basic syntax:
 ```html
 <h1>Welcome</h1>
@@ -538,15 +542,46 @@ That is why HTML is called a markup language.
 
 <br>
 
-<h3>Syntax With Attributes</h3> 
+<h2 id="attribute"> Attributes</h2> 
 
 <p>
 Elements can include attributes inside the opening tag. Attributes provide extra information about the element.
 </p> 
 
-Example:
+<ul>
+ <li>alt - to add information about added image, use with img element.</li>
+ <li>autocompelete - to enable auto complete feature of a form, use with form and input.</li>
+ <li>autofocus - enable auto focus of input fields</li>
+ <li>autoplay - allows playing an audio/video on the page loads</li>
+ <li>charset - enable character encoding of meta tag</li>
+ <li>checked - to make a checkbox checked of an input element</li>
+ <li>class - to give a common identifier for HTML elements</li>
+ <li>cols - to determine the width of a textarea element</li>
+ <li>contenteditable - make any element editable</li>
+ <li>download - allows a link to download a resource(image, pdf, PPT, etc)</li>
+ <li>draggable - to make an element draggable, apply to all elements</li>
+ <li>for - to connect/bound a label element with a specific input field, use with a label tag</li>
+ <li>href - to specify a URL or a path of a resource, use with a link tag</li>
+ <li>id - a unique id for an HTML element, apply to all elements</li>
+ <li>lang - specifies the language of the page</li>
+ <li>type - specifies the type of the element and it uses with only a certain elements</li>
+ <li>src - to specify URL of a media file(img, audio, video, source, embed, script)</li>
+ <li>style - to add an inline CSS style to an element</li>
+</ul>
+
+<p>
+There are also event listener attribute that listen mouse or keyboard. For instance, onclick, onsubmit, onkeydown, onkeyup, onscroll, etc. Remember, do not try to remember by hard. For detail information about, HTML attributes you may check this <a href="https://www.w3schools.com/tags/ref_attributes.asp">link</a>.</p>
+
+<br>
+
+General pattern:
+ ```html
+ <tag attribute="value">Content</tag>
+```
+
+An HTML element with multiple attributes:
 ```html
-<a href="https://example.com">Visit</a>
+<a id="link" href="https://example.com">Visit</a>
 ```
 
 <ul> 
@@ -557,14 +592,19 @@ Example:
 
 <br>
 
-General pattern:
- ```html
- <tag attribute="value">Content</tag>
+```html
+<p style="color:gray;">
+  HTML elements are the blocking of a website. There is not website without
+  HTML. Learn HTML and build a website.
+</p>
 ```
 
+<p>
+The above p tag has a style attribute. The style attribute has a color property and a value gray. The style changes the text color to gray. You can try it by adding other property and value in the style. Each value has to be separated by a semicolon.
+</p>
 <br>
 
-Another example:
+Another basic example:
 ```html
 <p id="text">Hello</p>
 ```
@@ -575,15 +615,38 @@ Another example:
     <li><code>Hello</code> - Content</li> 
   </ul>
 
+<br>
 
+<p>
+Some HTML elements do not have closing tag, instead they have self-closing tag.
+</p>
 
+Example:
+```html
+<tagname attribute="value" />
+```
 
+An example of self closing tags:
+```html
+<area />
+<base />
+<br />
+<col />
+<embed />
+<hr />
+<img />
+<input />
+<link />
+<meta />
+<para />
+<source />
+<track />
+<wbr />
+```
 
-
-
-
-
-
+<p>
+The slash is optional but I strongly recommend to use the slash with self-closing tags. For instance, React.js does not allow you to use without the slash.
+</p>
 
 
 <br>
