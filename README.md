@@ -428,8 +428,8 @@ You can download it here:
 <p>
 If you are new to Visual Studio Code, you can learn the basics by watching the following video:
 <a href="https://youtu.be/cu_ykIfBprI?si=_2-PMfP3MGc6OUKs" target="_blank">
-  Watch tutorial video
-</a>.
+  Watch tutorial video.
+</a>
 </p>
 
 <br>
