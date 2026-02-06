@@ -17,8 +17,27 @@ Not only did this prove very helpful to me during my learning process, but I als
 </p>
 
 <p>
-With this guide, my goal is to provide a simple, structured, and hands-on starting point for anyone who wants to step into the world of frontend development. I believe the best part of this guide is that it encourages learning by doing, helping you understand the building blocks of HTML and gain the confidence to create your own web pages! 🚀
+With this guide, my goal is to provide a simple, structured, and hands-on starting point for anyone who wants to step into the world of frontend development. I believe the best part of this guide is that it encourages learning by doing, helping you understand the building blocks of HTML and gain the confidence to create your own web pages!
 </p>
+
+<br>
+
+<p>
+This guide was created with the idea that understanding the fundamentals is more important than memorizing tags.
+Instead of only listing elements, the goal was to explain how HTML is structured, how the DOM is formed,
+and how browsers read and interpret web pages.
+</p>
+
+References & Learning Sources:
+<ul>
+  <li>Focus on understanding structure, not just syntax</li>
+  <li>Learn step by step from basic concepts to more technical topics</li>
+  <li>Build a strong foundation before moving into CSS and JavaScript</li>
+  <li>Encourage learning by doing with simple examples</li>
+</ul>
+
+<br>
+<br>
 
 <p>
 If you have any questions, suggestions, or feedback, feel free to reach out:
@@ -161,9 +180,10 @@ Contents supported by this guide:
 </ol>
 
 <hr>
+
 <h2>References & Learning Sources</h2>
 <p>
-📚 This project was built using some of the most trusted and widely used resources in the web development community.
+This project was built using some of the most trusted and widely used resources in the web development community.
 The goal was not only to collect information, but to understand the core logic behind HTML and present it in a clear,
 structured, and beginner way.
 </p>
@@ -223,29 +243,6 @@ They are used by professional developers and recommended for long term learning.
     – Beginner and friendly video explanations that focus on hands on learning as a Turkish course.
   </li>
 </ul>
-
-<h3>Learning Philosophy Behind This Guide</h3>
-
-<p>
-This guide was created with the idea that understanding the fundamentals is more important than memorizing tags.
-Instead of only listing elements, the goal was to explain how HTML is structured, how the DOM is formed,
-and how browsers read and interpret web pages.
-</p>
-
-<ul>
-  <li>Focus on understanding structure, not just syntax</li>
-  <li>Learn step by step from basic concepts to more technical topics</li>
-  <li>Build a strong foundation before moving into CSS and JavaScript</li>
-  <li>Encourage learning by doing with simple examples</li>
-</ul>
-
-<h3>Why These Sources Were Chosen</h3>
-
-<p>
-These references were selected because they are trusted by developers worldwide and provide accurate,
-up-to-date, and practical information. By combining knowledge from official documentation,
-structured courses, and real examples, this guide aims to present HTML in a clear and meaningful way.
-</p>
 
 <hr>
 <h2>Skills you will get:</h2>
