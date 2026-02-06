@@ -128,17 +128,7 @@ Contents supported by this guide:
         </ul>
       </li>
       <li><a href="DOM.md#how-browsers-read-html">How Browsers Read HTML</a></li>
-    </ul>
-  </li>
-
-  <li>
-    <h3><a href="Text Content Elements.md">Text & Content Elements</a></h3>
-    <ul>
-      <li><a href="Paragraph Element.md#paragraph-element">Paragraph Element</a></li>
-      <li><a href="Heading Element.md#heading-elements">Heading Elements</a></li>
-      <li>
-        <a href="HTML5 Formatting Elements.md#formatting-elements">Formatting Elements</a>
-      </li>
+      <li><a href="DOM.md#how-browsers-read-html">HTML Document metadata</a></li>
     </ul>
   </li>
 
