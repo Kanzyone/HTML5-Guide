@@ -56,7 +56,7 @@ Contents supported by this guide:
 
 <ol>
   <li>
-    <h3><a href="#introduction">Introduction</a></h3>
+    <h3><a href="#introduction"><strong>Introduction</strong></a></h3>
     <ul>
       <li><a href="#introduction">Introduction</a></li>
       <li>
@@ -69,9 +69,6 @@ Contents supported by this guide:
           <li><a href="#partsofawebsite">Parts of a Website</a></li>
         </ul>
       </li>
-     
-
-<ul>
       <li>
         <a href="#settingdevelopment">Setting Development Environment</a>
         <ul>
@@ -87,93 +84,86 @@ Contents supported by this guide:
   </li>
 
   <li>
-    <h3><a href="">HTML Fundamentals</a></h3>
+    <h3><a href="#"><strong>HTML Fundamentals</strong></a></h3>
     <ul>
-      <li><a href="">HTML Elements</a></li>
-      <li><a href="">HTML Document Structure</a></li>
-      <li><a href="">Charset and Language of Elements</a></li>
-      <li><a href="">HTML Comment</a></li>
+      <li><a href="#">HTML Elements</a></li>
+      <li><a href="#">HTML Document Structure</a></li>
+      <li><a href="#">Charset and Language of Elements</a></li>
+      <li><a href="#">HTML Comment</a></li>
     </ul>
   </li>
 
   <li>
-    <h3><a href="">DOM</a></h3>
+    <h3><a href="#"><strong>DOM</strong></a></h3>
     <ul>
-      <li><a href="">What is DOM?</a></li>
+      <li><a href="#">What is DOM?</a></li>
       <li>
-        <a href="">DOM Tree Structure</a>
+        <a href="#">DOM Tree Structure</a>
         <ul>
-          <li><a href="">Declaration</a></li>
-          <li><a href="">Root Element</a></li>
+          <li><a href="#">Declaration</a></li>
+          <li><a href="#">Root Element</a></li>
         </ul>
       </li>
       <li>
-          <a href="">Text and Content Elements</a>
-         <ul>
-           <li><a href="">Paragraph Element</a></li>
-      <li><a href="">Heading Elements</a></li>
-      <li>
-        <a href="">Formatting Elements</a>
-      </li>
-         </ul>
-      <li>
-        <a href="">Elements and Nodes</a>
+        <a href="#">Elements and Nodes</a>
         <ul>
-          <li><a href="">What is a Node?</a></li>
-          <li><a href="">What is an Element?</a></li>
-          <li><a href="">Types of Nodes</a></li>
-          <li><a href="">DOM Tree connection</a></li>
+          <li><a href="#">What is a Node?</a></li>
+          <li><a href="#">What is an Element?</a></li>
+          <li><a href="#">Types of Nodes</a></li>
+          <li><a href="#">DOM Tree Connection</a></li>
         </ul>
       </li>
-      <li><a href="">How Browsers Read HTML</a></li>
-      <li><a href="">HTML Document metadata</a></li>
+      <li><a href="#">How Browsers Read HTML</a></li>
+      <li><a href="#">HTML Document Metadata</a></li>
     </ul>
   </li>
 
   <li>
-    <h3><a href="">Layout Basics</a></h3>
+    <h3><a href="#"><strong>Layout Basics</strong></a></h3>
     <ul>
+      <li><a href="#">Div and Span</a></li>
+      <li><a href="#">Block and Inline Elements</a></li>
+    </ul>
+  </li>
+
+  <li>
+    <h3><a href="#"><strong>Links</strong></a></h3>
+    <ul>
+      <li><a href="#">Link Tag</a></li>
+      <li><a href="#">Download Tag</a></li>
+      <li><a href="#">Absolute and Relative Links</a></li>
+      <li><a href="#">Anchor Navigation</a></li>
+    </ul>
+  </li>
+
+  <li>
+    <h3><a href="#"><strong>Media Elements</strong></a></h3>
+    <ul>
+      <li><a href="#">Image</a></li>
+      <li><a href="#">Video</a></li>
+      <li><a href="#">Audio</a></li>
+    </ul>
+  </li>
+
+  <li>
+    <h3><a href="#"><strong>Table</strong></a></h3>
+    <ul>
+      <li><a href="#">HTML Table Elements</a></li>
+      <li><a href="#">HTML Form Elements</a></li>
+      <li><a href="#">Iframe</a></li>
       <li>
-        <a href="">Div and Span</a>
-      </li>
-      <li><a href="">Block and Inline Elements</a></li>
-    </ul>
-  </li>
-
-  <li>
-    <h3><a href="">Links</a></h3>
-    <ul>
-      <li><a href="">Link Tag</a></li>
-      <li><a href="">Download Tag</a></li>
-      <li><a href="">Absolute and Relative Links</a></li>
-      <li><a href="">Anchor Navigation</a></li>
-    </ul>
-  </li>
-
-  <li>
-    <h3><a href="">Media Elements</a></h3>
-    <ul>
-      <li><a href="">Image</a></li>
-      <li><a href="">Video</a></li>
-      <li><a href="">Audio</a></li>
-    </ul>
-  </li>
-
-  <li>
-    <h3><a href="">Table</a></h3>
-    <ul>
-      <li><a href="">HTML Table Elements</a></li>
-      <li><a href="">HTML Form Elements</a></li>
-      <li><a href="">Iframe</a></li>
-      <li><a href="">Lists</a></li>
-      <ul>
-          <li><a href="">Ordered List</a></li>
-          <li><a href="">Unordered List</a></li>
-          <li><a href="">Description List</a></li>
+        <a href="#">Lists</a>
+        <ul>
+          <li><a href="#">Ordered List</a></li>
+          <li><a href="#">Unordered List</a></li>
+          <li><a href="#">Description List</a></li>
         </ul>
+      </li>
     </ul>
   </li>
 </ol>
+
+
 
 <br>
 
