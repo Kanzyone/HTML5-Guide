@@ -62,12 +62,12 @@ Contents supported by this guide:
     <ul>
       <li><a href="Introduction.md#introduction">Introduction</a></li>
       <li>
-        <a href="DOM.md#elements-and-nodes">Wev Development</a>
+        <a href="DOM.md#elements-and-nodes">Web Development</a>
         <ul>
-          <li><a href="DOM.md#what-is-a-node">Front-End Development</a></li>
-          <li><a href="DOM.md#what-is-an-element">What is an Element?</a></li>
-          <li><a href="DOM.md#types-of-nodes">Types of Nodes</a></li>
-          <li><a href="DOM.md#dom-tree-connection">DOM Tree connection</a></li>
+          <li><a href="">About the Web</a></li>
+          <li><a href="DOM.md#what-is-a-node">Frontend Web Development</a></li>
+          <li><a href="DOM.md#what-is-an-element">Backend Web Development</a></li>
+          <li><a href="DOM.md#types-of-nodes">Fullstack Web Development</a></li>
         </ul>
       </li>
       <li><a href="Introduction.md#internet">Internet</a></li>
