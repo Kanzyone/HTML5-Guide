@@ -524,12 +524,11 @@ Example of basic syntax:
 ```html
 <h1>Welcome</h1>
 ```
-<br>
 
   <li><code>&lt;h1&gt;</code> - Opening tag</li> 
   <li><code>Welcome</code> - Content</li> 
   <li><code>&lt;/h1&gt;</code> - Closing tag</li> </ul>
-
+<br>
 <p>
 Also, this example occurs an heading element. The tag name is <b><code>h1</code></b>. It tells the browser to display the text in a large font.
 That is why HTML is called a markup language.
