@@ -165,7 +165,7 @@ Contents supported by this guide:
 <p>
 📚 This project was built using some of the most trusted and widely used resources in the web development community.
 The goal was not only to collect information, but to understand the core logic behind HTML and present it in a clear,
-structured, and beginner-friendly way.
+structured, and beginner way.
 </p>
 
 <p>
@@ -178,7 +178,7 @@ build a strong foundation.
 
 <p>
 These are considered the most reliable and accurate references for web technologies.
-They are used by professional developers and recommended for long-term learning.
+They are used by professional developers and recommended for long term learning.
 </p>
 
 <ul>
@@ -204,7 +204,7 @@ They are used by professional developers and recommended for long-term learning.
     <a href="https://www.w3schools.com/html/">
       W3Schools HTML Tutorial
     </a>
-    – Easy-to-follow explanations with interactive examples.
+    – Easy to follow explanations with interactive examples.
   </li>
 
   <li>
@@ -220,7 +220,7 @@ They are used by professional developers and recommended for long-term learning.
     <a href="https://youtube.com/playlist?list=PLfAfrKyDRWrG7tK01yW92A2j7Ou0qpOFm">
       HTML Courses by PROTOTURK
     </a>
-    – Beginner-friendly video explanations that focus on hands-on learning.
+    – Beginner and friendly video explanations that focus on hands on learning as a Turkish course.
   </li>
 </ul>
 
@@ -248,7 +248,7 @@ structured courses, and real examples, this guide aims to present HTML in a clea
 </p>
 
 <hr>
-<h2>Skills you will get</h2>
+<h2>Skills you will get:</h2>
 
 <p>
 By following this guide and exploring each section step by step, learners will develop a strong
