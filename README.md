@@ -147,7 +147,6 @@ Contents supported by this guide:
       <li><a href="">Download Tag</a></li>
       <li><a href="">Absolute and Relative Links</a></li>
       <li><a href="">Anchor Navigation</a></li>
-      <li><a href="">ID System</a></li>
     </ul>
   </li>
 
