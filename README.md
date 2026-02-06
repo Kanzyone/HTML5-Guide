@@ -51,7 +51,7 @@ If you have any questions, suggestions, or feedback, feel free to reach out:
 If you're starting web development from scratch, I recommend reviewing the "Introduction" section.  
 The contents are listed in order from top to bottom and you can access them by clicking on each section.
 
-Contents supported by this guide:
+Contents supported by this project:
 </p>
 
 <ol>
