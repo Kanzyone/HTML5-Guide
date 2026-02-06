@@ -477,19 +477,95 @@ Understanding web standards is essential for anyone who wants to become a profes
 Web standards are the building blocks of a consistent digitally connected world. They are implemented in browsers, blogs, search engines, and other software that power our experience on the web.
 
 Web standards are official technical rules that ensure websites:
-<li>Work the same across all browsers</li>
-<li>Are readable by search engines</li>
-<li>Are accessible to people with disabilities</li>
-<li>Stay compatible with future technologies</li>
+<ul>
+ <li>Work the same across all browsers</li>
+ <li>Are readable by search engines</li>
+ <li>Are accessible to people with disabilities</li>
+ <li>Stay compatible with future technologies</li>
 <li>Instead of coding randomly, developers follow a shared global system.</li>
+</ul>
 <br>
   This repository treats HTML5 not just as a language, but as a structured engineering tool. Learn more about <a href="https://www.w3.org/standards/"> web standarts.</a>
 </p>
 
+<br>
+<br>
 
+<div align="center">
+  <h1 id="htmlelements">2. HTML Elements</h1>
+</div>
 
+<p>
+HTML elements are the building blocks of a web page. Every visible part of a website is created using HTML elements.
+An HTML element usually consists of:
+<ul>
+ <li>An opening tag</li>
+ <li>Attributes (optional)</li>
+ <li>Content</li>
+ <li>A closing tag</li>
+</ul>
+</p>
 
+<br>
 
+An HTML element follows a clear and predictable structure. This structure is called the syntax.
+
+Example of basic syntax:
+```html
+<h1>Welcome</h1>
+```
+<br>
+
+<p>Syntax breakdown:</p> 
+<ul> 
+  <li><code>&lt;h1&gt;</code> - Opening tag</li> 
+  <li><code>Welcome</code> - Content</li> 
+  <li><code>&lt;/h1&gt;</code> - Closing tag</li> </ul>
+
+<p>
+Also, this example occurs an heading element. The tag name is <b><code>h1</code></b>. It tells the browser to display the text in a large font.
+That is why HTML is called a markup language.
+</p>
+
+<br>
+
+<h3>Syntax With Attributes</h3> 
+
+<p>
+Elements can include attributes inside the opening tag. Attributes provide extra information about the element.
+</p> 
+
+Example:
+```html
+<a href="https://example.com">Visit</a>
+```
+
+<p>Syntax breakdown:</p> 
+<ul> 
+  <li><code>&lt;a</code> - Opening tag starts</li> 
+  <li><code>href="https://example.com"</code> - Attribute</li> 
+  <li><code>&gt;</code> - End of opening tag</li> <li><code>Visit</code> - Content</li> 
+  <li><code>&lt;/a&gt;</code> - Closing tag</li> </ul> 
+
+<br>
+
+General pattern:
+ ```html
+ <tag attribute="value">Content</tag>
+```
+
+<br>
+
+Another example:
+```html
+<p id="text">Hello</p>
+```
+
+  <ul> 
+    <li><code>p</code> - Tag name</li> 
+    <li><code>id="text"</code> - Attribute</li> 
+    <li><code>Hello</code> - Content</li> 
+  </ul>
 
 
 
