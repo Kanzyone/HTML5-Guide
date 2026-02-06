@@ -84,9 +84,9 @@ Contents supported by this project:
   </li>
 
   <li>
-    <h3><a href="#"><strong>HTML Fundamentals</strong></a></h3>
+    <h3><a href="#htmlfundamentals"><strong>HTML Fundamentals</strong></a></h3>
     <ul>
-      <li><a href="#">HTML Elements</a></li>
+      <li><a href="#htmlelements">HTML Elements</a></li>
       <li><a href="#">HTML Document Structure</a></li>
       <li><a href="#">Accessibility Basics</a></li>
       <li><a href="#">Basic SEO with HTML</a></li>
@@ -492,9 +492,19 @@ Web standards are official technical rules that ensure websites:
 <br>
 
 <div align="center">
-  <h1 id="htmlelements">2. HTML Elements</h1>
+  <h1 id="htmlfundamentals">2. HTML Fundamentals</h1>
 </div>
+<p>
+HTML Fundamentals introduce the core concepts needed to understand how the web works. HTML (HyperText Markup Language) is the standard language used to create and structure web pages. It defines the meaning and layout of content using elements such as headings, paragraphs, links, images, and lists.
+</p>
 
+<p>
+Learning the fundamentals of HTML helps you understand how browsers read and display content, how pages are structured, and how HTML connects with CSS for styling and JavaScript for interactivity. A strong foundation in HTML is the first step toward becoming a web developer and building modern, accessible websites.
+</p>
+
+<br>
+
+<h2 id="htmlelements"> HTML Elements</h2>
 <p>
 HTML elements are the building blocks of a web page. Every visible part of a website is created using HTML elements.
 An HTML element usually consists of:
