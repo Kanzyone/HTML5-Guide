@@ -466,8 +466,26 @@ When a browser reads HTML code, it renders it and displays a human-readable web 
 </p>
 
 <h2 id="w3c"> W3C and Web Standards</h2>
+<p>
+The World Wide Web Consortium (W3C) is the main international organization that creates and maintains web standards.
+  
+This repository is built around the core philosophy of modern web development: writing HTML5 that follows W3C standards, accessibility rules, and long-term maintainability principles.
+  
+Understanding web standards is essential for anyone who wants to become a professional developer, because these standards define how the internet actually works behind the scenes.
+</p>
+<h3>Web standards</h3>
+<p>
+Web standards are the building blocks of a consistent digitally connected world. They are implemented in browsers, blogs, search engines, and other software that power our experience on the web.
 
-
+Web standards are official technical rules that ensure websites:
+<li>Work the same across all browsers</li>
+<li>Are readable by search engines</li>
+<li>Are accessible to people with disabilities</li>
+<li>Stay compatible with future technologies</li>
+<li>Instead of coding randomly, developers follow a shared global system.</li>
+<br>
+  This repository treats HTML5 not just as a language, but as a structured engineering tool. Learn more about <a href="https://www.w3.org/standards/"> web standarts.</a>
+</p>
 
 
 
