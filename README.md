@@ -1,4 +1,4 @@
-<h1>HTML Foundations</h1>
+<h1 id="about">HTML Foundations</h1>
 
 <p>
 This guide is built to help beginners take their first step into web development and strengthen their understanding of HTML fundamentals.
@@ -28,15 +28,13 @@ Instead of only listing elements, the goal was to explain how HTML is structured
 and how browsers read and interpret web pages.
 </p>
 
-References & Learning Sources:
-<ul>
-  <li>Focus on understanding structure, not just syntax</li>
-  <li>Learn step by step from basic concepts to more technical topics</li>
-  <li>Build a strong foundation before moving into CSS and JavaScript</li>
-  <li>Encourage learning by doing with simple examples</li>
-</ul>
-
 <br>
+<ul>
+  <li><a href="#about">About Project</a></li>
+  <li><a href="#contents">Contents</a></li>
+  <li><a href="#references">References & Learning Sources</a></li>
+  <li><a href="#skills">Skills you will get</a></li>
+</ul>
 <br>
 
 <p>
@@ -47,7 +45,7 @@ If you have any questions, suggestions, or feedback, feel free to reach out:
 
 <br>
 
-<h1>Contents</h1>
+<h1 id="contents">Contents</h1>
 
 <p>
 If you're starting web development from scratch, I recommend reviewing the "Introduction" section.  
@@ -185,7 +183,7 @@ Contents supported by this guide:
 
 <br>
 
-<h2>References & Learning Sources</h2>
+<h2 id="references">References & Learning Sources</h2>
 <p>
 This project was built using some of the most trusted and widely used resources in the web development community.
 The goal was not only to collect information, but to understand the core logic behind HTML and present it in a clear,
@@ -507,7 +505,7 @@ Web standards are official technical rules that ensure websites:
 <br>
 
 <hr>
-<h2>Skills you will get:</h2>
+<h2 id="skills">Skills you will get:</h2>
 
 <p>
 By following this guide and exploring each section step by step, learners will develop a strong
