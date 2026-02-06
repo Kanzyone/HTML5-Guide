@@ -64,118 +64,118 @@ Contents supported by this guide:
       <li>
         <a href="#web">Web</a>
         <ul>
-          <li><a href="https://github.com/Kanzyone/HTML5-Foundations#how-the-web-works">How the Web Works?</a></li>
-          <li><a href="https://github.com/Kanzyone/HTML5-Foundations#frontend-web-development">Frontend Web Development</a></li>
-          <li><a href="https://github.com/Kanzyone/HTML5-Foundations#backend-web-development">Backend Web Development</a></li>
-          <li><a href="https://github.com/Kanzyone/HTML5-Foundations#fullstack-web-development">Fullstack Web Development</a></li>
-          <li><a href="https://github.com/Kanzyone/HTML5-Foundations#parts-of-a-website">Parts of a Website</a></li>
+          <li><a href="#howthewebworks">How the Web Works?</a></li>
+          <li><a href="#frontend">Frontend Web Development</a></li>
+          <li><a href="#backend">Backend Web Development</a></li>
+          <li><a href="#fullstack">Fullstack Web Development</a></li>
+          <li><a href="#partsofawebsite">Parts of a Website</a></li>
         </ul>
       </li>
-      <li><a href="Introduction.md#internet">Internet</a></li>
+      <li><a href="#internet">Internet</a></li>
       <li>
-        <a href="https://github.com/Kanzyone/HTML5-Foundations#setting-development-environment">Setting Development Environment</a>
+        <a href="#settingdevelopment">Setting Development Environment</a>
         <ul>
-          <li><a href="https://github.com/Kanzyone/HTML5-Foundations#browser">Browser</a></li>
-          <li><a href="https://github.com/Kanzyone/HTML5-Foundations#code-editor">Code Editor</a></li>
-          <li><a href="https://github.com/Kanzyone/HTML5-Foundations#how-to-use-visual-studio-code">How to use Visual Studio Code</a></li>
+          <li><a href="#browser">Browser</a></li>
+          <li><a href="#codeeditor">Code Editor</a></li>
+          <li><a href="#vscode">How to use Visual Studio Code</a></li>
         </ul>
       </li>
-      <li><a href="https://github.com/Kanzyone/HTML5-Foundations#introduction-to-html">Introduction to HTML</a></li>
-      <li><a href="https://github.com/Kanzyone/HTML5-Foundations#what-is-html">What is HTML?</a></li>
-      <li><a href="Introduction.md#w3c-and-web-standards">W3C and Web Standards</a></li>
+      <li><a href="#intohtml">Introduction to HTML</a></li>
+      <li><a href="#whatishtml">What is HTML?</a></li>
+      <li><a href="#w3c">W3C and Web Standards</a></li>
     </ul>
   </li>
 
   <li>
-    <h3><a href="HTML Fundamentals.md">HTML Fundamentals</a></h3>
+    <h3><a href="">HTML Fundamentals</a></h3>
     <ul>
-      <li><a href="HTML Elements.md#html-elements">HTML Elements</a></li>
-      <li><a href="HTML Document Structure.md#html-document-structure">HTML Document Structure</a></li>
-      <li><a href="Charset and Language of Elements.md#charset-and-language-of-elements">Charset and Language of Elements</a></li>
-      <li><a href="HTML Comment.md#html-comment">HTML Comment</a></li>
+      <li><a href="">HTML Elements</a></li>
+      <li><a href="">HTML Document Structure</a></li>
+      <li><a href="">Charset and Language of Elements</a></li>
+      <li><a href="">HTML Comment</a></li>
     </ul>
   </li>
 
   <li>
-    <h3><a href="DOM.md#dom">DOM</a></h3>
+    <h3><a href="">DOM</a></h3>
     <ul>
-      <li><a href="DOM.md#what-is-dom">What is DOM?</a></li>
+      <li><a href="">What is DOM?</a></li>
       <li>
-        <a href="DOM.md#dom-tree-structure">DOM Tree Structure</a>
+        <a href="">DOM Tree Structure</a>
         <ul>
-          <li><a href="DOM.md#declaration">Declaration</a></li>
-          <li><a href="DOM.md#root-element">Root Element</a></li>
+          <li><a href="">Declaration</a></li>
+          <li><a href="">Root Element</a></li>
         </ul>
       </li>
       <li>
           <a href="">Text and Content Elements</a>
          <ul>
-           <li><a href="Paragraph Element.md#paragraph-element">Paragraph Element</a></li>
-      <li><a href="Heading Element.md#heading-elements">Heading Elements</a></li>
+           <li><a href="">Paragraph Element</a></li>
+      <li><a href="">Heading Elements</a></li>
       <li>
-        <a href="HTML5 Formatting Elements.md#formatting-elements">Formatting Elements</a>
+        <a href="">Formatting Elements</a>
       </li>
          </ul>
       <li>
-        <a href="DOM.md#elements-and-nodes">Elements and Nodes</a>
+        <a href="">Elements and Nodes</a>
         <ul>
-          <li><a href="DOM.md#what-is-a-node">What is a Node?</a></li>
-          <li><a href="DOM.md#what-is-an-element">What is an Element?</a></li>
-          <li><a href="DOM.md#types-of-nodes">Types of Nodes</a></li>
-          <li><a href="DOM.md#dom-tree-connection">DOM Tree connection</a></li>
+          <li><a href="">What is a Node?</a></li>
+          <li><a href="">What is an Element?</a></li>
+          <li><a href="">Types of Nodes</a></li>
+          <li><a href="">DOM Tree connection</a></li>
         </ul>
       </li>
-      <li><a href="DOM.md#how-browsers-read-html">How Browsers Read HTML</a></li>
-      <li><a href="DOM.md#how-browsers-read-html">HTML Document metadata</a></li>
+      <li><a href="">How Browsers Read HTML</a></li>
+      <li><a href="">HTML Document metadata</a></li>
     </ul>
   </li>
 
   <li>
-    <h3><a href="Layout Basics.md">Layout Basics</a></h3>
+    <h3><a href="">Layout Basics</a></h3>
     <ul>
       <li>
-        <a href="Div Span.md#div-span">Div & Span</a>
+        <a href="">Div & Span</a>
         <ul>
-          <li><a href="Div Span.md#div">div</a></li>
-          <li><a href="Div Span.md#span">span</a></li>
-          <li><a href="Div Span.md#summary">Summary of Differences</a></li>
+          <li><a href="">div</a></li>
+          <li><a href="">span</a></li>
+          <li><a href="">Summary of Differences</a></li>
         </ul>
       </li>
-      <li><a href="Layout Basics.md#block-and-inline-elements">Block and Inline Elements</a></li>
+      <li><a href="">Block and Inline Elements</a></li>
     </ul>
   </li>
 
   <li>
-    <h3><a href="Links.md">Links</a></h3>
+    <h3><a href="">Links</a></h3>
     <ul>
-      <li><a href="Links.md#link-tag">Link Tag</a></li>
-      <li><a href="Links.md#download-tag">Download Tag</a></li>
-      <li><a href="Links.md#absolute-and-relative-links">Absolute and Relative Links</a></li>
-      <li><a href="Links.md#anchor-navigation">Anchor Navigation</a></li>
-      <li><a href="Links.md#id-system">ID System</a></li>
+      <li><a href="">Link Tag</a></li>
+      <li><a href="">Download Tag</a></li>
+      <li><a href="">Absolute and Relative Links</a></li>
+      <li><a href="">Anchor Navigation</a></li>
+      <li><a href="">ID System</a></li>
     </ul>
   </li>
 
   <li>
-    <h3><a href="Media Elements.md">Media Elements</a></h3>
+    <h3><a href="">Media Elements</a></h3>
     <ul>
-      <li><a href="Media Elements.md#image">Image</a></li>
-      <li><a href="Media Elements.md#video">Video</a></li>
-      <li><a href="Media Elements.md#audio">Audio</a></li>
+      <li><a href="">Image</a></li>
+      <li><a href="">Video</a></li>
+      <li><a href="">Audio</a></li>
     </ul>
   </li>
 
   <li>
-    <h3><a href="Table.md">Table</a></h3>
+    <h3><a href="">Table</a></h3>
     <ul>
-      <li><a href="Table.md#table-elements">HTML Table Elements</a></li>
-      <li><a href="Table.md#table-elements">HTML Form Elements</a></li>
-      <li><a href="Table.md#iframe">Iframe</a></li>
-      <li><a href="Table.md#list-tags">Lists</a></li>
+      <li><a href="">HTML Table Elements</a></li>
+      <li><a href="">HTML Form Elements</a></li>
+      <li><a href="">Iframe</a></li>
+      <li><a href="">Lists</a></li>
       <ul>
-          <li><a href="DOM.md#what-is-a-node">Ordered List</a></li>
-          <li><a href="DOM.md#what-is-an-element">Unordered List</a></li>
-          <li><a href="DOM.md#types-of-nodes">Description List</a></li>
+          <li><a href="">Ordered List</a></li>
+          <li><a href="">Unordered List</a></li>
+          <li><a href="">Description List</a></li>
         </ul>
     </ul>
   </li>
@@ -284,7 +284,7 @@ Websites are built using frontend and backend technologies. The frontend is what
 while the backend handles data processing, storage, and server side logic.
 </p>
 
-<h3>How the Web Works</h3>
+<h3 id="howtowebworks"> How the Web Works</h3>
 <p>By now you should have clear understanding how the web works based on the information you get on the above two sections. If you want to know more you may also read this <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works">article</a>.</p>
 <h3>Frontend Web Development</h3>
 <p>
@@ -308,7 +308,7 @@ The core technologies used to create the frontend are:
   <li><strong>JavaScript</strong> – Makes the page interactive and dynamic</li>
 </ul>
 
-<h3>Backend Web Development</h3>
+<h3 id="backend"> Backend Web Development</h3>
 <p>
 Backend development, also known as server-side development, refers to the processes that happen behind the scenes of a website.
 Unlike the frontend, which users can see and interact with, the backend handles data processing, application logic, and communication
@@ -327,7 +327,7 @@ HTTP (HyperText Transfer Protocol) is the communication protocol that allows dat
 It is the foundation of communication on the web and enables browsers and web servers to exchange information.
 </p>
 
-<h3>Fullstack Web Development</h3>
+<h3 id="fullstack"> Fullstack Web Development</h3>
 <p>
 Full-stack web development refers to working with both the frontend and backend parts of a web application.
 A full-stack developer is someone who understands how the entire system works, from the user interface to the server and database. In simple terms, full-stack development can be seen as the combination of multiple areas, including frontend development,
@@ -339,7 +339,7 @@ By learning both client-side and server-side technologies, full-stack developers
 as complete systems.
 </p>
 
-<h3>Parts of a Website</h3>
+<h3 id="partsofawebsite"> Parts of a Website</h3>
 <p>
 A website can have a few features or many features depending on its purpose. There is no strict rule that defines what every
 website must include. However, most modern websites share a number of common components. For example, the very first website ever created had only one simple page with a few links. Since 1993, HTML has continued to evolve,
@@ -377,9 +377,9 @@ You do not need to include all of these components in every website. The structu
 depend on its purpose, content, and design goals. There are no strict rules about what must be included.
 </p>
 
-<h2>Internet</h2>
+<h2 id="internet"> Internet</h2>
 
-<h2>Setting Development Environment</h2>
+<h2 id="settingdevelopment"> Setting Development Environment</h2>
 
 <p>
 Before writing HTML code, you need to prepare a simple development environment. This includes choosing a web browser to view your
@@ -391,7 +391,7 @@ Having the right tools makes the learning process easier and more productive. In
 which code editor to install, and how to set up your workspace for web development.
 </p>
 
-<h3>Browser</h3>
+<h3 id="browser"> Browser</h3>
 
 <p>
 There are many web browsers available, but most developers prefer to use Google Chrome or Firefox for development.
@@ -407,7 +407,7 @@ HTML is supported by all modern browsers, including Safari, Opera, Firefox, Edge
 Therefore, you should not face any issues viewing HTML pages in any standard browser.
 </p>
 
-<h3>Code Editor</h3>
+<h3 id="codeeditor"> Code Editor</h3>
 
 <p>
 As a web developer, you should write and manage your code using a text or code editor. To create HTML, CSS, and JavaScript files,
@@ -423,7 +423,7 @@ You can download it here:
 </a>.
 </p>
 
-<h3>How to use Visual Studio Code</h3>
+<h3 id="vscode"> How to use Visual Studio Code</h3>
 
 <p>
 If you are new to Visual Studio Code, you can learn the basics by watching the following video:
@@ -433,7 +433,7 @@ If you are new to Visual Studio Code, you can learn the basics by watching the f
 </p>
 
 <br>
-<h2>Introduction to HTML</h2>
+<h2 id="intohtml"> Introduction to HTML</h2>
 
 <p>
 HTML is used to build the structure (skeleton) of every website. This structure is styled using CSS (Cascading Style Sheets),
@@ -446,7 +446,7 @@ a web developer. This guide will mainly focus on HTML, but in some sections, sma
 concepts easier to understand.
 </p>
 
-<h3>What is HTML?</h3>
+<h3 id="whatishtml"> What is HTML?</h3>
 
 <p>
 HTML is an acronym that stands for <strong>HyperText Markup Language</strong>. It is the standard markup language used to create
@@ -463,7 +463,7 @@ HTML is not a programming language. Instead, it is a markup language that descri
 When a browser reads HTML code, it renders it and displays a human-readable web page.
 </p>
 
-<h2>W3C and Web Standards</h2>
+<h2 id="w3c"> W3C and Web Standards</h2>
 
 
 
