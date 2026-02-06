@@ -58,9 +58,9 @@ Contents supported by this guide:
 
 <ol>
   <li>
-    <h3><a href="https://github.com/Kanzyone/HTML5-Foundations#1-introduction">Introduction</a></h3>
+    <h3><a href="#introduction">Introduction</a></h3>
     <ul>
-      <li><a href="https://github.com/Kanzyone/HTML5-Foundations#1-introduction">Introduction</a></li>
+      <li><a href="#introduction">Introduction</a></li>
       <li>
         <a href="https://github.com/Kanzyone/HTML5-Foundations#web">Web</a>
         <ul>
