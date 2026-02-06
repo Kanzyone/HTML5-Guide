@@ -88,6 +88,8 @@ Contents supported by this guide:
     <ul>
       <li><a href="#">HTML Elements</a></li>
       <li><a href="#">HTML Document Structure</a></li>
+      <li><a href="#">Accessibility Basics</a></li>
+      <li><a href="#">Basic SEO with HTML</a></li>
       <li><a href="#">Charset and Language of Elements</a></li>
       <li><a href="#">HTML Comment</a></li>
     </ul>
@@ -158,7 +160,13 @@ Contents supported by this guide:
     <h3><a href="#"><strong>Table</strong></a></h3>
     <ul>
       <li><a href="#">HTML Table Elements</a></li>
-      <li><a href="#">HTML Form Elements</a></li>
+      <li>
+        <a href="#">HTML Form Elements</a>
+      <ul>
+          <li><a href="#">input Types</a></li>
+          <li><a href="#">Form Structure</a></li>
+        </ul>
+      </li>
       <li><a href="#">Iframe</a></li>
       <li>
         <a href="#">Lists</a>
