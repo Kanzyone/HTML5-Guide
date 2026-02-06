@@ -379,6 +379,7 @@ You do not need to include all of these components in every website. The structu
 depend on its purpose, content, and design goals. There are no strict rules about what must be included.
 </p>
 
+<br>
 
 <h2 id="settingdevelopment"> Setting Development Environment</h2>
 
