@@ -58,31 +58,30 @@ Contents supported by this guide:
 
 <ol>
   <li>
-    <h3><a href="Introduction.md">Introduction</a></h3>
+    <h3><a href="https://github.com/Kanzyone/HTML5-Foundations#1-introduction">Introduction</a></h3>
     <ul>
-      <li><a href="Introduction.md#introduction">Introduction</a></li>
+      <li><a href="https://github.com/Kanzyone/HTML5-Foundations#1-introduction">Introduction</a></li>
       <li>
-        <a href="DOM.md#elements-and-nodes">Web</a>
+        <a href="https://github.com/Kanzyone/HTML5-Foundations#web">Web</a>
         <ul>
-          <li><a href="">About the Web</a></li>
-          <li><a href="">How the Web Works?</a></li>
-          <li><a href="DOM.md#what-is-a-node">Frontend Web Development</a></li>
-          <li><a href="DOM.md#what-is-an-element">Backend Web Development</a></li>
-          <li><a href="DOM.md#types-of-nodes">Fullstack Web Development</a></li>
-          <li><a href="">Parts of a Website</a></li>
+          <li><a href="https://github.com/Kanzyone/HTML5-Foundations#how-the-web-works">How the Web Works?</a></li>
+          <li><a href="https://github.com/Kanzyone/HTML5-Foundations#frontend-web-development">Frontend Web Development</a></li>
+          <li><a href="https://github.com/Kanzyone/HTML5-Foundations#backend-web-development">Backend Web Development</a></li>
+          <li><a href="https://github.com/Kanzyone/HTML5-Foundations#fullstack-web-development">Fullstack Web Development</a></li>
+          <li><a href="https://github.com/Kanzyone/HTML5-Foundations#parts-of-a-website">Parts of a Website</a></li>
         </ul>
       </li>
       <li><a href="Introduction.md#internet">Internet</a></li>
       <li>
-        <a href="Introduction.md#setting-development-environment">Setting Development Environment</a>
+        <a href="https://github.com/Kanzyone/HTML5-Foundations#setting-development-environment">Setting Development Environment</a>
         <ul>
-          <li><a href="Introduction.md#browser">Browser</a></li>
-          <li><a href="Introduction.md#code-editor">Code Editor</a></li>
-          <li><a href="Introduction.md#how-to-use-visual-studio-code">How to use Visual Studio Code</a></li>
+          <li><a href="https://github.com/Kanzyone/HTML5-Foundations#browser">Browser</a></li>
+          <li><a href="https://github.com/Kanzyone/HTML5-Foundations#code-editor">Code Editor</a></li>
+          <li><a href="https://github.com/Kanzyone/HTML5-Foundations#how-to-use-visual-studio-code">How to use Visual Studio Code</a></li>
         </ul>
       </li>
-      <li><a href="Introduction.md#introduction-to-html">Introduction to HTML</a></li>
-      <li><a href="Introduction.md#what-is-html">What is HTML?</a></li>
+      <li><a href="https://github.com/Kanzyone/HTML5-Foundations#introduction-to-html">Introduction to HTML</a></li>
+      <li><a href="https://github.com/Kanzyone/HTML5-Foundations#what-is-html">What is HTML?</a></li>
       <li><a href="Introduction.md#w3c-and-web-standards">W3C and Web Standards</a></li>
     </ul>
   </li>
@@ -377,6 +376,7 @@ You do not need to include all of these components in every website. The structu
 depend on its purpose, content, and design goals. There are no strict rules about what must be included.
 </p>
 
+<h2>Internet</h2>
 
 <h2>Setting Development Environment</h2>
 
@@ -462,9 +462,7 @@ HTML is not a programming language. Instead, it is a markup language that descri
 When a browser reads HTML code, it renders it and displays a human-readable web page.
 </p>
 
-<p>
-Look at the figure below to better understand how HTML code is converted into a visible web page by a browser.
-</p>
+<h2>W3C and Web Standards</h2>
 
 
 
