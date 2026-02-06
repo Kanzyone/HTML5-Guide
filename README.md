@@ -286,7 +286,7 @@ Websites are built using frontend and backend technologies. The frontend is what
 while the backend handles data processing, storage, and server side logic.
 </p>
 
-<h3 id="howtowebworks"> How the Web Works</h3>
+<h3 id="howthewebworks"> How the Web Works</h3>
 <p>By now you should have clear understanding how the web works based on the information you get on the above two sections. If you want to know more you may also read this <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works">article</a>.</p>
 <h3>Frontend Web Development</h3>
 <p>
