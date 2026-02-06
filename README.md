@@ -525,9 +525,11 @@ Example of basic syntax:
 <h1>Welcome</h1>
 ```
 
+<ul>
   <li><code>&lt;h1&gt;</code> - Opening tag</li> 
   <li><code>Welcome</code> - Content</li> 
-  <li><code>&lt;/h1&gt;</code> - Closing tag</li> </ul>
+  <li><code>&lt;/h1&gt;</code> - Closing tag</li> 
+</ul>
 <br>
 <p>
 Also, this example occurs an heading element. The tag name is <b><code>h1</code></b>. It tells the browser to display the text in a large font.
