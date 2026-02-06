@@ -174,6 +174,11 @@ Contents supported by this guide:
       <li><a href="Table.md#table-elements">HTML Form Elements</a></li>
       <li><a href="Table.md#iframe">Iframe</a></li>
       <li><a href="Table.md#list-tags">Lists</a></li>
+      <ul>
+          <li><a href="DOM.md#what-is-a-node">Ordered List</a></li>
+          <li><a href="DOM.md#what-is-an-element">Unordered List</a></li>
+          <li><a href="DOM.md#types-of-nodes">Description List</a></li>
+        </ul>
     </ul>
   </li>
 </ol>
