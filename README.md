@@ -123,6 +123,15 @@ Contents supported by this guide:
     <ul>
       <li><a href="#">Div and Span</a></li>
       <li><a href="#">Block and Inline Elements</a></li>
+       <li>
+        <a href="#">Semantic HTML</a>
+        <ul>
+          <li><a href="#">Why is Semantic HTML Important?</a></li>
+          <li><a href="#">What is an Element?</a></li>
+          <li><a href="#">The Concept of Semantics</a></li>
+          <li><a href="#">Core Semantic Structure Elements</a></li>
+        </ul>
+      </li>
     </ul>
   </li>
 
