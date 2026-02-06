@@ -282,29 +282,6 @@ The core technologies used to create the frontend are:
   <li><strong>JavaScript</strong> – Makes the page interactive and dynamic</li>
 </ul>
 
-<p>
-There are also many JavaScript libraries and frameworks that help developers build modern and dynamic web applications more efficiently.
-Some of the most popular ones are:
-</p>
-
-<ul>
-  <li>React</li>
-  <li>Vue</li>
-  <li>Angular</li>
-</ul>
-
-<h4>Recommended Learning Order</h4>
-
-<p>
-To build a strong foundation in frontend development, it is important to follow the correct learning sequence.
-You should first understand the basics before moving on to more advanced tools.
-</p>
-
-<ul>
-  <li>Do not start learning JavaScript before understanding HTML and CSS.</li>
-  <li>Do not learn JavaScript libraries before learning JavaScript itself.</li>
-</ul>
-
 <h3>Backend Web Development</h3>
 <h3>Fullstack Web Development</h3>
 <h3>Web Development Tools</h3>
