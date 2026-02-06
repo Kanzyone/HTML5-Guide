@@ -69,8 +69,7 @@ Contents supported by this guide:
           <li><a href="DOM.md#what-is-a-node">Frontend Web Development</a></li>
           <li><a href="DOM.md#what-is-an-element">Backend Web Development</a></li>
           <li><a href="DOM.md#types-of-nodes">Fullstack Web Development</a></li>
-          <li><a href="">Web Development Tools</a></li>
-           <li><a href="">Parts of a Website</a></li>
+          <li><a href="">Parts of a Website</a></li>
         </ul>
       </li>
       <li><a href="Introduction.md#internet">Internet</a></li>
@@ -256,8 +255,35 @@ They are used by professional developers and recommended for long term learning.
 <div align="center">
   <h1>1. Introduction</h1>
 </div>
+<p>
+This section provides a general overview of the web and introduces the basic concepts needed to begin learning web development.
+Before diving into HTML, it is important to understand what the web is, how it works, and how different parts of a website are connected.
+</p>
+
+<p>
+In the following topics, you will explore the structure of the web, how browsers and servers communicate, and the role of frontend
+and backend technologies in building modern websites. This foundation will help you better understand how HTML fits into the bigger picture.
+</p>
+
+<br>
 
 <h2>Web</h2>
+<p>
+The web, also known as the World Wide Web (WWW), is a global system that allows people to access and share information through the internet.
+It is made up of millions of websites that can be opened and viewed using a web browser such as Google Chrome, Firefox, or Safari.
+</p>
+
+<p>
+Every website you visit, every image you see, and every video you watch online is part of the web.
+Websites are created using web technologies like HTML, CSS, and JavaScript, and they are stored on servers that can be accessed from anywhere in the world. In simple terms, the web is a collection of connected pages and resources that people can explore through browsers.
+It allows users to read content, watch videos, communicate, learn, and interact with online services.
+</p>
+
+<p>
+Websites are built using frontend and backend technologies. The frontend is what users see and interact with,
+while the backend handles data processing, storage, and server side logic.
+</p>
+
 <h3>How the Web Works</h3>
 <p>By now you should have clear understanding how the web works based on the information you get on the above two sections. If you want to know more you may also read this <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works">article</a>.</p>
 <h3>Frontend Web Development</h3>
@@ -283,9 +309,74 @@ The core technologies used to create the frontend are:
 </ul>
 
 <h3>Backend Web Development</h3>
+<p>
+Backend development, also known as server-side development, refers to the processes that happen behind the scenes of a website.
+Unlike the frontend, which users can see and interact with, the backend handles data processing, application logic, and communication
+with databases. A typical backend system consists of a server, a backend programming language, and a database. The backend communicates with the
+frontend and manages data using programming languages such as Node.js, Python, Ruby, or PHP.
+</p>
+
+<p>
+When a user interacts with a website, the browser (client) sends an HTTP request to the server. The backend processes this request,
+interacts with the database if necessary, and then returns an HTTP response back to the client. This response can be an HTML page,
+text, an image, or other types of data.
+</p>
+
+<p>
+HTTP (HyperText Transfer Protocol) is the communication protocol that allows data to be transferred between the client and the server.
+It is the foundation of communication on the web and enables browsers and web servers to exchange information.
+</p>
+
 <h3>Fullstack Web Development</h3>
-<h3>Web Development Tools</h3>
+<p>
+Full-stack web development refers to working with both the frontend and backend parts of a web application.
+A full-stack developer is someone who understands how the entire system works, from the user interface to the server and database. In simple terms, full-stack development can be seen as the combination of multiple areas, including frontend development,
+backend development, testing, and sometimes additional tools and technologies used to build and maintain modern web applications.
+</p>
+
+<p>
+By learning both client-side and server-side technologies, full-stack developers gain a broader understanding of how websites function
+as complete systems.
+</p>
+
 <h3>Parts of a Website</h3>
+<p>
+A website can have a few features or many features depending on its purpose. There is no strict rule that defines what every
+website must include. However, most modern websites share a number of common components. For example, the very first website ever created had only one simple page with a few links. Since 1993, HTML has continued to evolve,
+and today it is possible to build a complete and decent static website using only HTML.
+</p>
+
+<p>
+Below are some of the most common parts (components) that you will often find in many websites:
+</p>
+
+<ul>
+  <li>Website Logo</li>
+  <li>Header / Banner</li>
+  <li>Navigation Bar / Menu</li>
+  <li>Carousel or Slider</li>
+  <li>Content Sections</li>
+  <li>Forms</li>
+  <li>Buttons</li>
+  <li>Links</li>
+  <li>Images</li>
+  <li>Videos</li>
+  <li>Audio</li>
+  <li>Social Media Links</li>
+  <li>Footer</li>
+</ul>
+
+<p>
+When you build a website, you will create many of these components using HTML. Once a component is created,
+it can often be reused in different projects. This is why it is important to think about maintainability
+and reusability while developing web pages.
+</p>
+
+<p>
+You do not need to include all of these components in every website. The structure and features of a website
+depend on its purpose, content, and design goals. There are no strict rules about what must be included.
+</p>
+
 
 <h2>Setting Development Environment</h2>
 
