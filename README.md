@@ -1,4 +1,4 @@
-<h1 id="about">HTML Foundations</h1>
+<h1 id="about"> About HTML Foundations</h1>
 
 <p>
 This guide is built to help beginners take their first step into web development and strengthen their understanding of HTML fundamentals.
