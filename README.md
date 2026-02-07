@@ -93,7 +93,7 @@ Contents supported by this project:
       <li><a href="#accessibility">Accessibility Basics</a></li>
       <li><a href="#seo">Basic SEO with HTML</a></li>
       <li><a href="#charset">Charset and Language of Elements</a></li>
-      <li><a href="#">HTML Comment</a></li>
+      <li><a href="#comment">HTML Comment</a></li>
     </ul>
   </li>
 
@@ -905,23 +905,59 @@ In this case, the second paragraph is marked as French, which helps assistive te
 From an academic and professional perspective, defining the character set and language of a document is a fundamental part of building well-structured and globally compatible web pages. It prevents display errors, improves accessibility, and supports proper interpretation by browsers and search engines.
 </p>
 
+<br>
 
+<h2 id="comment"> HTML Comment</h2>
+<p>
+Comments in programming are used to make code easier to read, understand, and maintain. In HTML, comments allow developers to leave notes inside the code without affecting how the page is displayed in the browser.
+</p>
 
+<p>
+Comments are not visible to users on the webpage. They are only seen by developers when reading the source code. This makes them useful for explaining sections of code, leaving reminders, or temporarily disabling parts of the content.
+</p>
 
+Example:
+```html
+<!-- This is an HTML comment -->
+```
 
+<p>
+In this example, the text inside the comment will not appear on the web page. It is only there to help explain the code.
+</p>
 
+<br>
 
+<p>
+Comments are often used to describe what a section of code does.
+</p>
 
+Example:
+```html
+<!-- Main title of the page -->
+<h1>Welcome to My Website</h1>
 
+<!-- This paragraph introduces the website -->
+<p>This website is built using HTML fundamentals.</p>
+```
 
+<br>
 
+<p>
+They can also be used to temporarily disable parts of the code without deleting them.  
+</p>
 
+Example:
+```html
+<!-- <p>This paragraph is hidden for now.</p> -->
+```
 
+<p>
+In this case, the paragraph will not be displayed because it is inside a comment.
+</p>
 
-
-
-
-
+<p>
+Comments are especially useful in larger projects where multiple developers work on the same code. They help explain structure, clarify decisions, and improve overall readability.
+</p>
 
 
 
