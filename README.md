@@ -44,6 +44,12 @@ This repository includes a <a href="https://github.com/Kanzyone/HTML5-Foundation
 <p>
 If you have any questions, suggestions, or feedback, feel free to reach out: <a href="mailto:ismailyucel2009@gmail.com">ismailyucel2009@gmail.com</a>
 </p>
+<br>
+
+<p>License</p>
+
+<p>This project is licensed under the Creative Commons Attribution License (MIT) - see the <a href="https://github.com/Kanzyone/HTML5-Foundations/blob/main/LICENSE">LICENSE</a> file for details.</p>
+
 
 <br>
 
