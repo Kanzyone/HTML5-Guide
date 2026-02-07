@@ -92,7 +92,7 @@ Contents supported by this project:
       </ul>
       <li><a href="#accessibility">Accessibility Basics</a></li>
       <li><a href="#seo">Basic SEO with HTML</a></li>
-      <li><a href="#">Charset and Language of Elements</a></li>
+      <li><a href="#charset">Charset and Language of Elements</a></li>
       <li><a href="#">HTML Comment</a></li>
     </ul>
   </li>
@@ -833,6 +833,104 @@ Example:
 <p>
 From an academic perspective, applying basic SEO principles with HTML demonstrates an understanding of how search engines interpret and organize web content. It shows the ability to structure information clearly, use meaningful tags, and follow modern web development practices.
 </p>
+
+<br>
+
+<h2 id="charset"> Charset and Language of Elements</h2>
+<p>
+When creating an HTML document, it is important to define how text should be interpreted and which language the content is written in. This is done using character encoding and language settings. These settings help browsers correctly display text and help search engines and assistive technologies better understand the page.
+</p>
+
+<p>
+One of the most important meta tags in an HTML document is the charset declaration. It defines the character encoding used by the page. The most commonly used value is UTF-8, which supports almost all characters and symbols from different languages.
+</p>
+
+<p>
+Without defining the correct character set, some characters may appear incorrectly on the page, especially special letters and symbols.
+</p>
+
+```html
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <title>My First Page</title>
+</head>
+<body>
+    Hello World!
+</body>
+</html>
+```
+
+<p>In this example, the <code>meta charset="UTF-8"</code> tag ensures that the browser correctly displays all characters in the document.</p>
+
+<br>
+
+<p>
+Another important setting is the language attribute. The language of the page is defined using the lang attribute inside the <code>html</code> tag. This tells browsers, search engines, and screen readers which language the content is written in.
+</p>
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My First Page</title>
+</head>
+<body>
+    Hello World!
+</body>
+</html>
+```
+
+<p>Here, <code>lang="en"</code> indicates that the page content is in English.</p>
+
+<p>
+Setting the correct language improves accessibility because screen readers use this information to pronounce words correctly. It also helps search engines better categorize and understand the content.
+</p>
+
+<p>
+The language attribute can also be used for specific elements if a part of the content is written in a different language.
+</p>
+
+```html
+<p>This is an English sentence.</p>
+<p lang="fr">Bonjour tout le monde</p>
+```
+
+<p>
+In this case, the second paragraph is marked as French, which helps assistive technologies interpret it properly.
+</p>
+
+<p>
+From an academic and professional perspective, defining the character set and language of a document is a fundamental part of building well-structured and globally compatible web pages. It prevents display errors, improves accessibility, and supports proper interpretation by browsers and search engines.
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
