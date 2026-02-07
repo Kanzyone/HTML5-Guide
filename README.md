@@ -1,4 +1,4 @@
-<h1 id="about">HTML Foundations</h1>
+<h1 id="about"> About HTML Foundations</h1>
 
 <p>
 This guide is built to help beginners take their first step into web development and strengthen their understanding of HTML fundamentals.
@@ -38,10 +38,18 @@ and how browsers read and interpret web pages.
 <br>
 
 <p>
-If you have any questions, suggestions, or feedback, feel free to reach out:
-<br>
-<a href="mailto:ismailyucel2009@gmail.com">ismailyucel2009@gmail.com</a>
+This repository includes a <a href="https://github.com/Kanzyone/HTML5-Foundations/discussions">Discussions section</a> intended to support academic collaboration, questions, and knowledge sharing related to HTML5 fundamentals. Readers are encouraged to use this area to ask questions, discuss concepts, suggest improvements, and exchange ideas about the topics covered in this project.
 </p>
+
+<p>
+If you have any questions, suggestions, or feedback, feel free to reach out: <a href="mailto:ismailyucel2009@gmail.com">ismailyucel2009@gmail.com</a>
+</p>
+<br>
+
+<p>License</p>
+
+<p>This project is licensed under the Massachusetts Institute of Technology (MIT) - see the <a href="https://github.com/Kanzyone/HTML5-Foundations/blob/main/LICENSE">LICENSE</a> file for details.</p>
+
 
 <br>
 
@@ -92,8 +100,8 @@ Contents supported by this project:
       </ul>
       <li><a href="#accessibility">Accessibility Basics</a></li>
       <li><a href="#seo">Basic SEO with HTML</a></li>
-      <li><a href="#">Charset and Language of Elements</a></li>
-      <li><a href="#">HTML Comment</a></li>
+      <li><a href="#charset">Charset and Language of Elements</a></li>
+      <li><a href="#comment">HTML Comment</a></li>
     </ul>
   </li>
 
@@ -833,6 +841,140 @@ Example:
 <p>
 From an academic perspective, applying basic SEO principles with HTML demonstrates an understanding of how search engines interpret and organize web content. It shows the ability to structure information clearly, use meaningful tags, and follow modern web development practices.
 </p>
+
+<br>
+
+<h2 id="charset"> Charset and Language of Elements</h2>
+<p>
+When creating an HTML document, it is important to define how text should be interpreted and which language the content is written in. This is done using character encoding and language settings. These settings help browsers correctly display text and help search engines and assistive technologies better understand the page.
+</p>
+
+<p>
+One of the most important meta tags in an HTML document is the charset declaration. It defines the character encoding used by the page. The most commonly used value is UTF-8, which supports almost all characters and symbols from different languages.
+</p>
+
+<p>
+Without defining the correct character set, some characters may appear incorrectly on the page, especially special letters and symbols.
+</p>
+
+```html
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <title>My First Page</title>
+</head>
+<body>
+    Hello World!
+</body>
+</html>
+```
+
+<p>In this example, the <code>meta charset="UTF-8"</code> tag ensures that the browser correctly displays all characters in the document.</p>
+
+<br>
+
+<p>
+Another important setting is the language attribute. The language of the page is defined using the lang attribute inside the <code>html</code> tag. This tells browsers, search engines, and screen readers which language the content is written in.
+</p>
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My First Page</title>
+</head>
+<body>
+    Hello World!
+</body>
+</html>
+```
+
+<p>Here, <code>lang="en"</code> indicates that the page content is in English.</p>
+
+<p>
+Setting the correct language improves accessibility because screen readers use this information to pronounce words correctly. It also helps search engines better categorize and understand the content.
+</p>
+
+<p>
+The language attribute can also be used for specific elements if a part of the content is written in a different language.
+</p>
+
+```html
+<p>This is an English sentence.</p>
+<p lang="fr">Bonjour tout le monde</p>
+```
+
+<p>
+In this case, the second paragraph is marked as French, which helps assistive technologies interpret it properly.
+</p>
+
+<p>
+From an academic and professional perspective, defining the character set and language of a document is a fundamental part of building well-structured and globally compatible web pages. It prevents display errors, improves accessibility, and supports proper interpretation by browsers and search engines.
+</p>
+
+<br>
+
+<h2 id="comment"> HTML Comment</h2>
+<p>
+Comments in programming are used to make code easier to read, understand, and maintain. In HTML, comments allow developers to leave notes inside the code without affecting how the page is displayed in the browser.
+</p>
+
+<p>
+Comments are not visible to users on the webpage. They are only seen by developers when reading the source code. This makes them useful for explaining sections of code, leaving reminders, or temporarily disabling parts of the content.
+</p>
+
+Example:
+```html
+<!-- This is an HTML comment -->
+```
+
+<p>
+In this example, the text inside the comment will not appear on the web page. It is only there to help explain the code.
+</p>
+
+<br>
+
+<p>
+Comments are often used to describe what a section of code does.
+</p>
+
+Example:
+```html
+<!-- Main title of the page -->
+<h1>Welcome to My Website</h1>
+
+<!-- This paragraph introduces the website -->
+<p>This website is built using HTML fundamentals.</p>
+```
+
+<br>
+
+<p>
+They can also be used to temporarily disable parts of the code without deleting them.  
+</p>
+
+Example:
+```html
+<!-- <p>This paragraph is hidden for now.</p> -->
+```
+
+<p>
+In this case, the paragraph will not be displayed because it is inside a comment.
+</p>
+
+<p>
+Comments are especially useful in larger projects where multiple developers work on the same code. They help explain structure, clarify decisions, and improve overall readability.
+</p>
+
+
+
+
+
+
+
+
+
 
 
 
