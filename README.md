@@ -91,7 +91,7 @@ Contents supported by this project:
         <li><a href="#attribute">Attribute</a></li>
       </ul>
       <li><a href="#accessibility">Accessibility Basics</a></li>
-      <li><a href="#">Basic SEO with HTML</a></li>
+      <li><a href="#seo">Basic SEO with HTML</a></li>
       <li><a href="#">Charset and Language of Elements</a></li>
       <li><a href="#">HTML Comment</a></li>
     </ul>
@@ -741,6 +741,101 @@ Example:
   <p>Copyright 2026</p>
 </footer>
 ```
+
+<br>
+
+<h2 id="seo"> Basic SEO with HTML</h2>
+<p>
+Search Engine Optimization (SEO) is the process of improving a web page so that search engines like Google can better understand, index, and rank its content. HTML plays a critical role in SEO because search engines read a page through its HTML structure. The tags you use help search engines determine what the page is about, how important certain content is, and how different sections are related.
+</p>
+
+<p>
+One of the most important SEO elements in HTML is the <code>title</code> tag. It defines the main topic of the page and is usually displayed as the clickable headline in search results. A clear and descriptive title helps search engines understand the purpose of the page and improves visibility.
+</p>
+
+Example:
+```html
+<head>
+  <title>HTML Fundamentals Guide</title>
+</head>
+```
+
+<br>
+
+<p>
+Another important element is the meta description. This provides a short summary of the page’s content. While it does not directly affect rankings, it often appears in search results and can increase the likelihood that users click on the page.
+</p>
+
+Example:
+```html
+<head>
+  <meta name="description" content="Learn the basics of HTML, document structure, and elements.">
+</head>
+```
+
+<br>
+
+<p>
+Heading tags also help search engines understand the structure and main topics of a page. The <code>h1</code> tag is typically used for the main title, while <code>h2</code> and <code>h3</code> divide the content into sections. This makes the content easier to analyze and index.
+</p>
+
+Example:
+```html
+<h1>Learn HTML</h1>
+<h2>HTML Elements</h2>
+<h2>HTML Document Structure</h2>
+<p>This guide explains the core concepts of HTML.</p>
+```
+
+<br>
+
+<p>
+Links are another important part of SEO. Using clear and descriptive link text helps search engines understand the relationship between pages and the topic of the linked content.  
+</p>
+
+Example:
+```html
+<a href="html-elements.html">Learn about HTML elements</a>
+```
+
+<br>
+
+<p>
+Images should include descriptive alternative text using the alt attribute. Since search engines cannot see images, they rely on this text to understand what the image represents and how it relates to the page content.
+</p>
+
+Example:
+```html
+<img src="html-logo.png" alt="HTML5 logo">
+```
+
+<br>
+
+<p>
+Proper content structure also improves SEO. Organizing content using meaningful headings and sections helps search engines identify the most important information on the page.
+</p>
+
+Example:
+```html
+<h1>HTML Basics</h1>
+
+<section>
+  <h2>What is HTML?</h2>
+  <p>HTML is the standard language used to create web pages.</p>
+</section>
+
+<section>
+  <h2>Why Learn HTML?</h2>
+  <p>HTML forms the foundation of all websites.</p>
+</section>
+```
+
+
+
+
+
+
+
 
 
 <br>
