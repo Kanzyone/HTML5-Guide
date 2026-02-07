@@ -38,9 +38,11 @@ and how browsers read and interpret web pages.
 <br>
 
 <p>
-If you have any questions, suggestions, or feedback, feel free to reach out:
-<br>
-<a href="mailto:ismailyucel2009@gmail.com">ismailyucel2009@gmail.com</a>
+This repository includes a <a href="https://github.com/Kanzyone/HTML5-Foundations/discussions/1#discussion-9439699">Discussions section</a> intended to support academic collaboration, questions, and knowledge sharing related to HTML5 fundamentals. Readers are encouraged to use this area to ask questions, discuss concepts, suggest improvements, and exchange ideas about the topics covered in this project.
+</p>
+
+<p>
+If you have any questions, suggestions, or feedback, feel free to reach out: <a href="mailto:ismailyucel2009@gmail.com">ismailyucel2009@gmail.com</a>
 </p>
 
 <br>
