@@ -90,8 +90,7 @@ Contents supported by this project:
       <ul>
         <li><a href="#attribute">Attribute</a></li>
       </ul>
-      <li><a href="#">HTML Document Structure</a></li>
-      <li><a href="#">Accessibility Basics</a></li>
+      <li><a href="#accessibility">Accessibility Basics</a></li>
       <li><a href="#">Basic SEO with HTML</a></li>
       <li><a href="#">Charset and Language of Elements</a></li>
       <li><a href="#">HTML Comment</a></li>
@@ -647,6 +646,101 @@ An example of self closing tags:
 <p>
 The slash is optional but I strongly recommend to use the slash with self-closing tags. For instance, React.js does not allow you to use without the slash.
 </p>
+
+<br>
+
+<h2 id="accessibility"> Accessibility Basics</h2>
+<p> Accessibility in web development means designing and building websites so that all people can use them, including individuals with visual, auditory, motor, or cognitive disabilities. This also includes users who rely on assistive technologies such as screen readers, keyboard navigation, or voice control. </p>
+
+<p> Accessibility in HTML begins with using elements correctly and <a href="">semantically</a>. A clear heading structure helps screen readers understand the hierarchy of the page. </p>
+
+Example of correct heading structure:
+```html
+<h1>Main Title</h1> 
+<h2>Section Title</h2> 
+<h3>Subsection</h3> 
+<p>This is a paragraph explaining the topic.</p>
+```
+
+<p>Instead of using generic containers like <b><code>div</code></b> for everything, meaningful elements should be preferred.</p>
+
+<br>
+<br>
+  
+Example of semantic vs non-semantic:
+<p> Using meaningful elements instead of generic containers improves accessibility and helps assistive technologies understand the purpose of content. </p>
+
+```html
+<!-- Less accessible --> 
+<div>Menu</div> 
+
+<!-- More accessible --> 
+<nav>Menu</nav>
+```
+
+<br>
+<br>
+
+<p> Adding alternative text using the <code>alt</code> attribute allows screen readers to describe images to users who cannot see them. </p>
+
+```html
+<img src="student.jpg" alt="Student studying in a library">
+```
+
+<p>If an image is only decorative, the alt attribute can be left empty:</p> 
+
+```html
+<img src="decoration.png" alt="">
+```
+
+<br>
+
+<p>Forms are another critical area for accessibility. Each input should be clearly labeled so users understand what information is required.</p>
+
+Example of accessible form label:
+```html
+<label for="email">Email Address:</label>
+<input type="email" id="email" name="email">
+```
+
+<p>This helps screen readers connect the label with the input field.</p>
+
+<br>
+<br>
+
+<p>Accessibility also means making sure a site can be used without a mouse. Many users navigate only with a keyboard, so interactive elements like buttons and links should be naturally focusable.</p>
+
+Example:
+```html
+<button>Submit</button>
+<a href="#">Go to homepage</a>
+```
+<p>These elements are keyboard-accessible by default, unlike clickable <b><code>div</code></div></b> elements.</p>
+
+<br>
+<br>
+
+<p>Clear page structure also improves accessibility. Using landmarks like header, navigation, main content, and footer helps assistive technologies understand different parts of the page.</p>
+
+Example:
+```html
+<header>
+  <h1>My Website</h1>
+</header>
+
+<nav>
+  <a href="#">Home</a>
+  <a href="#">About</a>
+</nav>
+
+<main>
+  <p>Welcome to the site.</p>
+</main>
+
+<footer>
+  <p>Copyright 2026</p>
+</footer>
+```
 
 
 <br>
