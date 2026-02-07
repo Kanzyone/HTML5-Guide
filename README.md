@@ -715,7 +715,7 @@ Example:
 <button>Submit</button>
 <a href="#">Go to homepage</a>
 ```
-<p>These elements are keyboard-accessible by default, unlike clickable <b><code>div</code></div></b> elements.</p>
+<p>These elements are keyboard-accessible by default, unlike clickable <code>div</code></div> elements.</p>
 
 <br>
 <br>
