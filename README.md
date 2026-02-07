@@ -48,7 +48,7 @@ If you have any questions, suggestions, or feedback, feel free to reach out: <a 
 
 <p>License</p>
 
-<p>This project is licensed under the Creative Commons Attribution License (MIT) - see the <a href="https://github.com/Kanzyone/HTML5-Foundations/blob/main/LICENSE">LICENSE</a> file for details.</p>
+<p>This project is licensed under the Massachusetts Institute of Technology (MIT) - see the <a href="https://github.com/Kanzyone/HTML5-Foundations/blob/main/LICENSE">LICENSE</a> file for details.</p>
 
 
 <br>
