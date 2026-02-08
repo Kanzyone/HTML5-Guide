@@ -712,7 +712,7 @@ Example of semantic vs non-semantic:
 <br>
 <br>
 
-<p id="usagesofaccessibility"> Adding alternative text using the <code>alt</code> attribute allows screen readers to describe images to users who cannot see them. </p>
+<p id="usagesofaccessibility">✴ Adding alternative text using the <code>alt</code> attribute allows screen readers to describe images to users who cannot see them. </p>
 
 ```html
 <img src="student.jpg" alt="Student studying in a library">
@@ -726,7 +726,7 @@ Example of semantic vs non-semantic:
 
 <br>
 
-<p>Forms are another critical area for accessibility. Each input should be clearly labeled so users understand what information is required.</p>
+<p>✴ Forms are another critical area for accessibility. Each input should be clearly labeled so users understand what information is required.</p>
 
 Example of accessible form label:
 ```html
@@ -739,7 +739,7 @@ Example of accessible form label:
 <br>
 <br>
 
-<p>Accessibility also means making sure a site can be used without a mouse. Many users navigate only with a keyboard, so interactive elements like buttons and links should be naturally focusable.</p>
+<p>✴ Accessibility also means making sure a site can be used without a mouse. Many users navigate only with a keyboard, so interactive elements like buttons and links should be naturally focusable.</p>
 
 Example:
 ```html
