@@ -560,6 +560,7 @@ That is why HTML is called a markup language.
   <p>
   HTML elements are the blocking of a website. There is not website without
   HTML. Learn HTML and build a website.
+  </p>
 ```
 
 <p>The <code>p</code> tag marks the text to be paragraph that why we call HTML a markup language.</p>
