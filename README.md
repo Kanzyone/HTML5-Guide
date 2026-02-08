@@ -33,7 +33,7 @@ and how browsers read and interpret web pages.
   <li><a href="#about">About Project</a></li>
   <li><a href="#contents">Contents</a></li>
   <li><a href="#references">References & Learning Sources</a></li>
-  <li><a href="#skills">Skills you will get</a></li>
+  <li><a href="#outcomes">Learning Outcomes</a></li>
 </ul>
 <br>
 
@@ -1012,7 +1012,7 @@ Comments are especially useful in larger projects where multiple developers work
 <br>
 
 <hr>
-<h2 id="skills">Skills you will get:</h2>
+<h2 id="outcomes">Learning Outcomes</h2>
 
 <p>
 By following this guide and exploring each section step by step, learners will develop a strong
