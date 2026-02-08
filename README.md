@@ -96,9 +96,16 @@ Contents supported by this project:
     <ul>
       <li><a href="#htmlelements">HTML Elements</a></li>
       <ul>
+        <li><a href="#syntax">Basic Structure of HTML and syntax</a></li>
+      </ul>
+      <ul>
         <li><a href="#attribute">Attribute</a></li>
+        <li><a href="#selfclosing-tags">Self-Closing Tags</a></li>
       </ul>
       <li><a href="#accessibility">Accessibility Basics</a></li>
+      <ul>
+        <li><a href="#usagesofaccessibility">Examples of Accessibility Usage Areas</a></li>
+      </ul>
       <li><a href="#seo">Basic SEO with HTML</a></li>
       <li><a href="#charset">Charset and Language of Elements</a></li>
       <li><a href="#comment">HTML Comment</a></li>
@@ -528,7 +535,7 @@ An HTML element usually consists of:
 
 <br>
 
-An HTML element follows a clear and predictable structure. This structure is called the syntax.
+<p id="syntax"> An HTML element follows a clear and predictable structure. This structure is called the syntax.</P>
 
 
 Example of basic syntax:
@@ -541,11 +548,26 @@ Example of basic syntax:
   <li><code>Welcome</code> - Content</li> 
   <li><code>&lt;/h1&gt;</code> - Closing tag</li> 
 </ul>
-<br>
+
 <p>
 Also, this example occurs an heading element. The tag name is <b><code>h1</code></b>. It tells the browser to display the text in a large font.
 That is why HTML is called a markup language.
 </p>
+
+<br>
+
+```html
+  <p>
+  HTML elements are the blocking of a website. There is not website without
+  HTML. Learn HTML and build a website.
+```
+
+<p>The <code>p</code> tag marks the text to be paragraph that why we call HTML a markup language.</p>
+
+
+
+
+
 
 <br>
 
@@ -624,7 +646,7 @@ Another basic example:
 
 <br>
 
-<p>
+<p id="selfclosing-tags">
 Some HTML elements do not have closing tag, instead they have self-closing tag.
 </p>
 
@@ -689,7 +711,7 @@ Example of semantic vs non-semantic:
 <br>
 <br>
 
-<p> Adding alternative text using the <code>alt</code> attribute allows screen readers to describe images to users who cannot see them. </p>
+<p id="usagesofaccessibility"> Adding alternative text using the <code>alt</code> attribute allows screen readers to describe images to users who cannot see them. </p>
 
 ```html
 <img src="student.jpg" alt="Student studying in a library">
