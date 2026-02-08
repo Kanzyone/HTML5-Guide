@@ -5,11 +5,11 @@ This guide is built to help beginners take their first step into web development
 </p>
 
 <p>
-By following this guide, you will: understand the basic structure of a web page, learn the most commonly used HTML tags, discover how to properly use elements like forms, tables, links, and media and eventually build your own simple web pages.
+By following this repository, you will: understand the basic structure of a web page, learn the most commonly used HTML tags, discover how to properly use elements like forms, tables, links, and media and eventually build your own simple web pages.
 </p>
 
 <p>
-I created this guide because I noticed that there aren’t many clear and beginner resources for people who want to start learning frontend development. When I started developing and learning about web development, I couldn't find the kind of resources I wanted, so I decided to create my own resource using information from other sources and what I had learned myself.
+I created this repository because I noticed that there aren’t many clear and beginner resources for people who want to start learning frontend development. When I started developing and learning about web development, I couldn't find the kind of resources I wanted, so I decided to create my own resource using information from other sources and what I had learned myself.
 </p>
 
 <p>
@@ -17,13 +17,13 @@ Not only did this prove very helpful to me during my learning process, but I als
 </p>
 
 <p>
-With this guide, my goal is to provide a simple, structured, and hands on starting point for anyone who wants to step into the world of frontend development. I believe the best part of this guide is that it encourages learning by doing, helping you understand the building blocks of HTML and gain the confidence to create your own web pages!
+With this repository, my goal is to provide a simple, structured, and hands on starting point for anyone who wants to step into the world of frontend development. I believe the best part of this guide is that it encourages learning by doing, helping you understand the building blocks of HTML and gain the confidence to create your own web pages!
 </p>
 
 <br>
 
 <p>
-This guide was created with the idea that understanding the fundamentals is more important than memorizing tags.
+This repository was created with the idea that understanding the fundamentals is more important than memorizing tags.
 Instead of only listing elements, the goal was to explain how HTML is structured, how the DOM is formed,
 and how browsers read and interpret web pages.
 </p>
