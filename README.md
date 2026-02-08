@@ -99,7 +99,7 @@ Contents supported by this project:
         <li><a href="#syntax">Basic Structure of HTML and syntax</a></li>
       </ul>
       <ul>
-        <li><a href="#attribute">Attribute</a></li>
+        <li><a href="#attribute">Attributes</a></li>
         <li><a href="#selfclosing-tags">Self-Closing Tags</a></li>
       </ul>
       <li><a href="#accessibility">Accessibility Basics</a></li>
@@ -109,6 +109,9 @@ Contents supported by this project:
       <li><a href="#seo">Basic SEO with HTML</a></li>
       <li><a href="#charset">Charset and Language of Elements</a></li>
       <li><a href="#comment">HTML Comment</a></li>
+      <li><a href="#headings">Headings</a></li>
+      <li><a href="#paragraph">Paragraph</a></li>
+      <li><a href="#formatting">Text Formatting Elements</a></li>
     </ul>
   </li>
 
