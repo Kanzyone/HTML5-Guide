@@ -136,7 +136,7 @@ Contents supported by this project:
         </ul>
       </li>
       <li><a href="#">How Browsers Read HTML</a></li>
-      <li><a href="#">HTML Document Metadata</a></li>
+      <li><a href="#">Document Metadata of HTML</a></li>
     </ul>
   </li>
 
@@ -146,7 +146,7 @@ Contents supported by this project:
       <li><a href="#">Div and Span</a></li>
       <li><a href="#">Block and Inline Elements</a></li>
        <li>
-        <a href="#">Semantic HTML</a>
+        <a href="#">Semantics</a>
         <ul>
           <li><a href="#">Why is Semantic HTML Important?</a></li>
           <li><a href="#">What is an Element?</a></li>
@@ -161,6 +161,9 @@ Contents supported by this project:
     <h3><a href="#"><strong>Linking</strong></a></h3>
     <ul>
       <li><a href="#">Link Tag</a></li>
+      <ul>
+         <li><a href="#linktypes">Link Types</a></li>
+      </ul>
       <li><a href="#">Download Tag</a></li>
       <li><a href="#">Absolute and Relative Links</a></li>
       <li><a href="#">Anchor Navigation</a></li>
@@ -181,9 +184,13 @@ Contents supported by this project:
     <ul>
       <li><a href="#">HTML Table Elements</a></li>
       <li>
-        <a href="#">HTML Form Elements</a>
+        <a href="#">Forms</a>
       <ul>
-          <li><a href="#">input Types</a></li>
+          <li><a href="#">The form Element</a></li>
+          <li><a href="#">The label Element</a></li>
+          <li><a href="#">The input Element</a></li>
+          <li><a href="#">States of the type attribute</a></li>
+          <li><a href="#">Common input element attributes</a>
           <li><a href="#">Form Structure</a></li>
         </ul>
       </li>
