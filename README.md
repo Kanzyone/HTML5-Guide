@@ -219,51 +219,70 @@ build a strong foundation.
 
 <h3>Documentations</h3>
 
-<p>
-These are considered the most reliable and accurate references for web technologies.
-They are used by professional developers and recommended for long term learning.
-</p>
+<p>These sources are considered authoritative references in modern web development and are widely used by professional developers and educators.</p>
 
 <ul>
   <li>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-      MDN Web Docs
-    </a>
-    – One of the most respected and detailed sources for HTML documentation.
-    It explains how HTML works, how browsers interpret code, and how elements interact with the DOM.
+    <strong>Mozilla Developer Network (MDN).</strong> <em>MDN Web Docs – HTML Documentation.</em><br>
+    Available at: 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+      https://developer.mozilla.org/en-US/docs/Web/HTML
+    </a><br>
+    Publisher: Mozilla Foundation<br>
+    Accessed: 8 February 2026<br>
+    <span>One of the most comprehensive and respected technical references explaining how HTML works, browser interpretation, and DOM interaction.</span>
   </li>
 
-  <li>
-    <a href="https://www.w3.org/">
-      W3C (World Wide Web Consortium)
-    </a>
-    – The organization that defines web standards.
-    HTML, CSS, and many core web technologies are developed and maintained through W3C guidelines.
-  </li>
-</ul>
-
-<ul>
-  <li>
-    <a href="https://www.w3schools.com/html/">
-      W3Schools HTML Tutorial
-    </a>
-    – Easy to follow explanations with interactive examples.
-  </li>
+  <br>
 
   <li>
-    <a href="https://github.com/Asabeneh/30-Days-Of-HTML">
-      30 Days of HTML
-    </a>
-    – A structured learning challenge that helped reinforce daily practice and consistency.
+    <strong>World Wide Web Consortium (W3C).</strong> <em>HTML Standard and Web Technologies Documentation.</em><br>
+    Available at:
+    <a href="https://www.w3.org/TR/html5/" target="_blank">
+      https://www.w3.org/TR/html5/
+    </a><br>
+    Publisher: World Wide Web Consortium (W3C)<br>
+    Accessed: 8 February 2026<br>
+    <span>The official organization responsible for defining and maintaining global web standards including HTML and CSS.</span>
   </li>
-</ul>
 
-<ul>
+  <br>
+
   <li>
-    <a href="https://youtube.com/playlist?list=PLfAfrKyDRWrG7tK01yW92A2j7Ou0qpOFm">
-      HTML Courses by PROTOTURK
-    </a>
-    – Beginner and friendly video explanations that focus on hands on learning as a Turkish course.
+    <strong>W3Schools.</strong> <em>HTML Tutorial.</em><br>
+    Available at:
+    <a href="https://www.w3schools.com/html/" target="_blank">
+      https://www.w3schools.com/html/
+    </a><br>
+    Publisher: Refsnes Data<br>
+    Accessed: 8 February 2026<br>
+    <span>Beginner explanations supported by interactive examples and quick references.</span>
+  </li>
+
+  <br>
+
+  <li>
+    <strong>30 Days of HTML.</strong> <em>Structured HTML Learning Challenge.</em><br>
+    Available at:
+    <a href="https://github.com/Asabeneh/30-Days-Of-HTML" target="_blank">
+      https://github.com/Asabeneh/30-Days-Of-HTML
+    </a><br>
+    Platform: GitHub<br>
+    Accessed: 8 February 2026<br>
+    <span>A practice oriented learning resource designed to reinforce consistency through daily exercises.</span>
+  </li>
+
+  <br>
+
+  <li>
+    <strong>PROTOTURK.</strong> <em>HTML Education Series.</em><br>
+    Available at:
+    <a href="https://www.youtube.com/c/PROTOTURK" target="_blank">
+      https://www.youtube.com/c/PROTOTURK
+    </a><br>
+    Publisher: PROTOTURK<br>
+    Accessed: 8 February 2026<br>
+    <span>A Turkish language video course focusing on hands on learning and practical understanding.</span>
   </li>
 </ul>
 
