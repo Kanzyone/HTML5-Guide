@@ -92,9 +92,9 @@ Contents supported by this project:
   </li>
 
   <li>
-    <h3><a href="#htmlfundamentals"><strong>HTML Fundamentals</strong></a></h3>
+    <h3><a href="#htmlfundamentals"><strong>The Elements of HTML</strong></a></h3>
     <ul>
-      <li><a href="#htmlelements">HTML Elements</a></li>
+      <li><a href="#htmlelements">The Elements</a></li>
       <ul>
         <li><a href="#syntax">Basic Structure of HTML and syntax</a></li>
       </ul>
@@ -110,8 +110,8 @@ Contents supported by this project:
       <li><a href="#charset">Charset and Language of Elements</a></li>
       <li><a href="#comment">HTML Comment</a></li>
       <li><a href="#headings">Headings</a></li>
-      <li><a href="#paragraph">Paragraph</a></li>
-      <li><a href="#formatting">Text Formatting Elements</a></li>
+      <li><a href="#paragraph">The Paragraph Element</a></li>
+      <li><a href="#formatting">The Formatting Elements</a></li>
     </ul>
   </li>
 
